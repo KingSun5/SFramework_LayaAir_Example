@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "classic",
+    "target": "es2015",
+    "strict": false,
+    "importHelpers": true,
+    "noEmitHelpers": false,
+    "noImplicitAny": false,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "inlineSources": true,
+    "outDir": "./bin/js"
+  },
+  "exclude": [
+    "node_modules",
+    "bin"
+  ]
+}
