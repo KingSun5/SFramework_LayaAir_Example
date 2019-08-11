@@ -45,7 +45,6 @@ export class SceneManager extends EventNode implements IManager {
             let scrpt = ConfigUI.$.defaultLoadView;
             if (scrpt != undefined) {
                 this.loadingView = new scrpt();
-                this.loadingView.zOrder = 2100;
                 Laya.stage.addChild(this.loadingView);
             }
         }

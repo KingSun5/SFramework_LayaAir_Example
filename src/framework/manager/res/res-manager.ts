@@ -89,7 +89,7 @@ export class ResManager extends EventNode implements IManager {
     }
 
     /**
-     * 加载场景资源包
+     * 加载主场景资源包
      * @param loads 资源组
      */
     public loadGroup(loads: ResGroup) {
@@ -100,10 +100,11 @@ export class ResManager extends EventNode implements IManager {
         });
 
         Laya.loader.load(urls, Handler.create(this, (success: boolean) => {
-            if (SceneManager.$.loadingView != null) {
-                SceneManager.$.loadingView.onCompleted();
-            }
+          
             if (success) {
+
+                SceneManager.$.loadingView.onCompleted();
+                
                 for (let index = 0; index < loads.needLoad.length; index++) {
                     let info = loads.needLoad[index];
                     if (!this.m_dictResItem.has(info.url)) {

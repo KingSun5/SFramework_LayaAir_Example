@@ -37394,6 +37394,8 @@ declare class UIConfig {
         public static   popupBgAlpha:number;
         /**模式窗口点击边缘，是否关闭窗口，默认是关闭的*/
         public static   closeDialogOnSide:boolean;
+          /** 按钮点击方式 */
+        public static   singleButtonStyle:string;
 }
 /**
  *  Config 用于配置一些全局参数。

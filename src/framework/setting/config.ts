@@ -1,7 +1,8 @@
 import Browser = laya.utils.Browser;
 import { enumDimension, enumScaleType } from './enum';
 import { Singleton } from '../core/singleton';
-
+import { LoadingView } from '../../test/loading';
+import { MainScene } from '../../client/scene/main-scene';
  /**
  * @author Sun
  * @time 2019-08-09 14:01
@@ -20,11 +21,11 @@ export class ConfigUI extends Singleton {
     /**默认字体大小 */
     public defaultFontSize: number = 16;
     /**默认加载场景 */
-    public defaultMainScene: any = null;
+    public defaultMainScene: any = MainScene;
     /**默认加载的Loading页面 */
-    public defaultLoadView: any = null;
+    public defaultLoadView: any = LoadingView;
     /**默认Loading页面的资源信息 */
-    public defaultLoadRes: any = null;
+    public defaultLoadRes: Array<{ url: string, type: string }> = null;
 
     private static instance: ConfigUI = null;
     public static get $():ConfigUI {
@@ -108,7 +109,7 @@ export class ConfigLayout extends Singleton {
     /**设计分辨率X */
     public designWidth: number = 750;
     /**设计分辨率Y */
-    public designHeight: number = 1624;
+    public designHeight: number = 1334;
     /**缩放模式 */
     public scaleMode: enumScaleType = enumScaleType.ScaleFixedAuto;
 
@@ -127,18 +128,38 @@ export class ConfigLayout extends Singleton {
 export class ConfigDebug extends Singleton {
 
     /**调试信息开关 */
-    public isDebug: boolean = false;
+    public isDebug: boolean = true;
     /**物理辅助线开关 */
     public isPhysicsDebug: boolean = false; 
+    /**调试面板 */
+    public isEnableDebugPanel:boolean = false;
     /**性能面板开关 */
-    public isStat: boolean = false;
+    public isStat: boolean = true;
+    /**性能统计面板X */
+    public panelX:number = 0;
+    /**性能统计面板Y */
+    public panelY:number = 100;
 
     private static instance: ConfigDebug = null;
     public static get $():ConfigDebug {
         if (!this.instance) this.instance = new ConfigDebug();
         return this.instance;
     }
+}
 
+/**
+ * 3D配置
+ */
+export class Config3D extends Singleton{
+
+    /**场景资源路径 */
+    public scenePath:string = "";
+
+    private static instance: Config3D = null;
+    public static get $():Config3D {
+        if (!this.instance) this.instance = new Config3D();
+        return this.instance;
+    }
 }
 
 // /**
