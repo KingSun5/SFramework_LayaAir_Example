@@ -1,6 +1,5 @@
 import Handler = Laya.Handler;
 import {UtilArray} from "../../util/array";
-import {SceneManager} from "../scene/scene-manager";
 import { EventNode } from '../event/event-node';
 import { IManager } from '../../interface/i-manager';
 import { TimeDelay } from '../../core/time-delay';
@@ -64,7 +63,6 @@ export class TimerManager extends EventNode implements IManager {
         if (args != null) UtilArray.insert(args, this.m_idCounter, 0);
         newTimer.set(this.m_idCounter, rate, ticks, Handler.create(caller, method, args, false));
         this.m_Timers.push(newTimer);
-        SceneManager.$.currentScene().sceneTimers.push(newTimer.id);
         return newTimer.id;
     }
 
@@ -77,7 +75,6 @@ export class TimerManager extends EventNode implements IManager {
         if (args != null) UtilArray.insert(args, this.m_idCounter, 0);
         newTimer.set(this.m_idCounter, rate, 1, Handler.create(caller, method, args, false));
         this.m_Timers.push(newTimer);
-        SceneManager.$.currentScene().sceneTimers.push(newTimer.id);
         return newTimer.id;
     }
 

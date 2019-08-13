@@ -2,6 +2,7 @@ import { ResGroup } from '../res/res-group';
 import { ResManager } from '../res/res-manager';
 import { Log } from '../../core/log';
 import { TimerManager } from '../timer/timer-manager';
+import { EventFunc } from '../event/event-data';
 
 export module CustomScene{
 
@@ -23,7 +24,7 @@ export module CustomScene{
         /**
          * 场景第一个加载的窗口
          */
-        protected firstWind: any = null;
+        protected firstView: any = null;
         /**
          * 场景依赖的资源组
          */
@@ -37,7 +38,6 @@ export module CustomScene{
         public constructor() {
             super();
             this.needLoadRes = new ResGroup();
-            this.needLoadRes.onCompletion(this.loaded, this);
         }
 
         createChildren():void {
@@ -47,18 +47,21 @@ export module CustomScene{
             this.height = Laya.stage.height;
         }
 
-
-        public enter(param: any) {
-
-            ResManager.$.push();
-            // UIManager.$.hideAllWin();
+        /**
+         * 进入场景
+         * @param param 参数 
+         * @param progressFuc 进度回调 
+         * @param completeFuc 完成回调
+         */
+        public enter(param: any,progressFuc:EventFunc,completeFuc:EventFunc) {
 
             this.m_loaded = false;
             this.m_param = param;
             this.onInit(param);
 
-            ResManager.$.loadGroup(this.needLoadRes);
+            ResManager.$.loadGroup(this.needLoadRes,progressFuc,completeFuc);
         }
+
 
         public leave() {
             this.onLeave();
@@ -81,7 +84,6 @@ export module CustomScene{
         protected loaded(error) {
 
             if (error != null) {
-                // console.error(error);
                 Log.error(error)
             } else {
                 this.onLoaded();
@@ -94,11 +96,8 @@ export module CustomScene{
 
         private chechEnter() {
             if (this.m_loaded) {
-                // UIManager.$.hideAllWin(true);
-                ResManager.$.pop();
-                if (this.firstWind != null) {
-                    // UIManager.$.showWin(this.firstWind);
-                    let cls = this.firstWind;
+                if (this.firstView != null) {
+                    let cls = this.firstView;
                     let win = new cls();
                     this.addChild(win);
                 }

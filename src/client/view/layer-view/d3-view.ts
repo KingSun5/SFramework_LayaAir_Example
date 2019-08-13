@@ -4,7 +4,6 @@ import {GameView} from "./game-view";
 import {EffectView} from "./effect-view";
 import { ui } from '../../../ui/layaMaxUI';
 import d3UI =  ui.view.main.d3UI;
-import { SceneManager } from '../../../framework/manager/scene/scene-manager';
 import { DataBase } from '../../../framework/manager/data/data-base';
 import { UtilLoad3D } from '../../../framework/util/load3d';
 import { Config3D } from '../../../framework/setting/config';

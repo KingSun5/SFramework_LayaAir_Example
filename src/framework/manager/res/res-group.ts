@@ -39,15 +39,5 @@ export class ResGroup {
         }
         return this
     }
-
-    /**
-     * 资源加载完成回调
-     * @param callback 回调
-     * @param thisObjs 作用域
-     */
-    public onCompletion(callback: Function, thisObjs: any) {
-        this.finish = new EventFunc(thisObjs, callback);
-        return this
-    }
 }
 

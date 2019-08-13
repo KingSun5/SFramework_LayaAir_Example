@@ -163,3 +163,21 @@ export enum enumElementPrefix {
     Controller = 'ctl_'
 }
 
+/**
+ * 数据表配置
+ */
+export enum enumJsonDefine {
+    lottery = "lottery",
+    invite = "invite",
+    level = "level",
+}
+
+/**
+ * 音效标记
+ */
+export enum enumSoundName{
+    bg = "bgSound",
+    botton = "btnSound",
+}
+
+

@@ -148,7 +148,6 @@
         UIConfig.popupBgAlpha = 0.5;
         UIConfig.closeDialogOnSide = true;
         UIConfig.singleButtonStyle = "scale";
-        UIConfig.defaultClickSound = "res/sound/kitty-button.mp3";
         return UIConfig;
     })()
 

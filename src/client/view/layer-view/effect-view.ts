@@ -3,6 +3,7 @@ import effectUI =  ui.view.main.effectUI;
 
 import Browser = Laya.Browser;
 import { DataBase } from '../../../framework/manager/data/data-base';
+import { Log } from '../../../framework/core/log';
 
 export class EffectView extends effectUI{
 
@@ -75,7 +76,9 @@ export class EffectView extends effectUI{
     /** Des:构造是初始化一次 */
     private initOnce()
     {
-
+        this.btnLucky.on(Laya.Event.CLICK,this,()=>{
+            Log.log("测试");
+        });
     }
 
     /** Des:每次弹出初始化 */

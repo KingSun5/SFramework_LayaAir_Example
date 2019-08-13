@@ -1,5 +1,4 @@
 import GameConfig from "./GameConfig";
-import { LoadingView } from './test/loading';
 import { Engine } from './framework/runtime/engine';
 
 

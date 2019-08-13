@@ -1,5 +1,7 @@
 import {CustomScene} from "../../framework/manager/ui/scene-base";
 import LyScene = CustomScene.LyScene;
+import { BgView } from '../view/layer-view/bg-view';
+import { Log } from '../../framework/core/log';
 
  /**
  * @author Sun
@@ -11,13 +13,8 @@ import LyScene = CustomScene.LyScene;
 export class MainScene extends LyScene {
     constructor() {
         super();
-        // this.firstWind = BgView;
 
         this.needLoadRes
-            .add("res/atlas/res/main/game.atlas", Laya.Loader.ATLAS, true)
-            .add("res/atlas/res/main/game/rock.atlas", Laya.Loader.ATLAS, true)
-            .add("res/atlas/res/main/effect.atlas", Laya.Loader.ATLAS, true)
-            .add("res/atlas/res/base.atlas", Laya.Loader.ATLAS, true);
+            .add("res/bg/123.png", Laya.Loader.IMAGE);
     }
-
 }

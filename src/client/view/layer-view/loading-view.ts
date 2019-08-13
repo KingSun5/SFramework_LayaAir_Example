@@ -4,14 +4,17 @@ import { ILoaing } from '../../../framework/interface/i-Loading';
 import { BgView } from './bg-view';
 import { D3View } from './d3-view';
 import { DataBase } from '../../../framework/manager/data/data-base';
-import { SceneManager } from '../../../framework/manager/scene/scene-manager';
-import { ConfigUI, ConfigGame } from '../../../framework/setting/config';
+import { ConfigUI, ConfigGame, ConfigRes } from '../../../framework/setting/config';
 import { EventManager } from '../../../framework/manager/event/event-manager';
 import { UtilNumber } from '../../../framework/util/number';
 import { enumDimension } from '../../../framework/setting/enum';
 import { GameView } from './game-view';
 import { EffectView } from './effect-view';
 import { PopupView } from './popup-view';
+import { EventFunc } from '../../../framework/manager/event/event-data';
+import { Log } from '../../../framework/core/log';
+import { ResManager } from '../../../framework/manager/res/res-manager';
+import { ResGroup } from '../../../framework/manager/res/res-group';
 
 
 
@@ -23,15 +26,6 @@ export class LoadingView extends loadingUI implements ILoaing{
     /********************************************——**********************************************/
     ////////////////////////////////////////////分界线////////////////////////////////////////////
     /*****************************************页面生命周期*****************************************/
-    private static instance: LoadingView
-
-    public static get $(): LoadingView {
-        if (!this.instance) this.instance = new LoadingView();
-        return this.instance;
-    }
-
-
-
 
     constructor() {
         super();
@@ -47,7 +41,13 @@ export class LoadingView extends loadingUI implements ILoaing{
      * 加载页面启动项
      */
     onStart(): void {
-        SceneManager.$.goToScene(ConfigUI.$.defaultMainScene);
+      
+        //加载主场景所需要的资源信息
+        ResManager.$.loadGroup(
+            ConfigRes.$.defaultMainRes,
+            new EventFunc(this,this.onProgress),
+            new EventFunc(this,this.onCompleted)
+        );
         this.lblLoading.text = "游戏登录中...";
     }
 
@@ -56,6 +56,7 @@ export class LoadingView extends loadingUI implements ILoaing{
      * @param success
      */
     onCompleted(success: boolean): void {
+
         //Bg页面
         let bgView = BgView.$;
         Laya.stage.addChild(bgView);
@@ -72,7 +73,6 @@ export class LoadingView extends loadingUI implements ILoaing{
     }
     private showView()
     {
-        SceneManager.$.hideLoadingView();
         //主页
         let gameView = GameView.$;
         Laya.stage.addChild(gameView);
@@ -82,6 +82,8 @@ export class LoadingView extends loadingUI implements ILoaing{
         //弹窗页
         let popupView = PopupView.$;
         Laya.stage.addChild(popupView);
+        //结束销毁加载页
+        this.destroy();
     }
 
     /**
@@ -89,7 +91,8 @@ export class LoadingView extends loadingUI implements ILoaing{
      * @param progress
      */
     onProgress(progress: number): void {
-        let fixed = UtilNumber.toFixed(progress, 0);
+
+        let fixed = UtilNumber.toFixed(progress*100, 0);
         this.lblLoading.text = fixed + "%";
         this.pro_Loading.value = fixed/100;
     }
@@ -173,5 +176,15 @@ export class LoadingView extends loadingUI implements ILoaing{
     }
 
     /********************************************——**********************************************/
+    ///////////////////////////////////////////-分界线-///////////////////////////////////////////
+    /******************************************销毁自身******************************************/
+
+    destroy()
+    {
+        this.removeSelf();
+        ResManager.$.releaseGroup(ConfigRes.$.defaultLoadRes);
+    }
+
+      /********************************************——**********************************************/
     ///////////////////////////////////////////-分界线-///////////////////////////////////////////
 }

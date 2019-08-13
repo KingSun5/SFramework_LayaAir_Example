@@ -1,8 +1,11 @@
 import Browser = laya.utils.Browser;
-import { enumDimension, enumScaleType } from './enum';
+import { enumDimension, enumScaleType, enumJsonDefine, enumSoundName } from './enum';
 import { Singleton } from '../core/singleton';
-import { LoadingView } from '../../test/loading';
 import { MainScene } from '../../client/scene/main-scene';
+import { ResGroup } from '../manager/res/res-group';
+import { LoadingView } from '../../client/view/layer-view/loading-view';
+import { JsonTemplate } from '../manager/json/json-template';
+import { SoundTemplate } from '../manager/sound/sound-template';
  /**
  * @author Sun
  * @time 2019-08-09 14:01
@@ -24,15 +27,56 @@ export class ConfigUI extends Singleton {
     public defaultMainScene: any = MainScene;
     /**默认加载的Loading页面 */
     public defaultLoadView: any = LoadingView;
-    /**默认Loading页面的资源信息 */
-    public defaultLoadRes: Array<{ url: string, type: string }> = null;
+   
 
     private static instance: ConfigUI = null;
     public static get $():ConfigUI {
         if (!this.instance) this.instance = new ConfigUI();
         return this.instance;
     }
+   
+}
 
+/**
+ * 资源配置
+ */
+export class ConfigRes extends Singleton{
+
+    /**默认Loading页面的资源信息 */
+    public defaultLoadRes: ResGroup = null;
+    /**默认的基础页面资源信息 */
+    public defaultMainRes:ResGroup = null;
+
+    private static instance: ConfigRes = null;
+    public static get $():ConfigRes {
+        if (!this.instance) this.instance = new ConfigRes();
+        return this.instance;
+    }
+
+    constructor(){
+        super();
+
+        //手动配置loading资源
+        this.defaultLoadRes = new ResGroup();
+        this.defaultLoadRes
+        .add("res/loading/img_loading_bg.png",Laya.Loader.IMAGE)
+        .add("res/loading/progress_loading.png",Laya.Loader.IMAGE)
+        .add("res/loading/img_8r.png",Laya.Loader.IMAGE);
+        //手动配置主页资源
+        this.defaultMainRes = new ResGroup();
+        this.defaultMainRes
+        .add("res/atlas/res/main/effect.atlas", Laya.Loader.ATLAS);
+        //加载Json配置文件
+        ConfigData.$.jsonTemplateList.forEach(item=>{
+            this.defaultMainRes
+            .add(item.url, Laya.Loader.JSON);
+        });
+        //加载音效资源
+        ConfigSound.$.soundResList.forEach(item=>{
+            this.defaultMainRes
+            .add(item.url, Laya.Loader.SOUND);
+        });
+    }
 }
 
 /**
@@ -40,25 +84,53 @@ export class ConfigUI extends Singleton {
  */
 export class ConfigSound extends Singleton {
 
+    /**背景音乐名字 */
+    public bgSoundName = "";
     /**背景音开关 */
     public isCloseBGSound = false;
     /**效果音开关 */
     public isCloseEffectSound = false;
     /**所有音效开关 */
     public isCloseVoiceSound = false;
-    /**背景音音量 */
-    public volumeBGSound = 1;
-    /**效果音音量 */
-    public volumeEffectSound = 1;
     /**总音量 */
     public volumeVoiceSound = 1;
-    /**默认按钮音效 */
-    public defaultButtonSound = null;
-    /**默认Loading页面的资源信息 */
+    /**音效资源 */
+    public soundResList:Array<SoundTemplate> = null;
+  
     private static instance: ConfigSound = null;
-
     public static get $():ConfigSound {
         if (!this.instance) this.instance = new ConfigSound();
+        return this.instance;
+    }
+
+    constructor()
+    {
+        super();
+        this.soundResList = new Array<SoundTemplate>();
+        // this.soundResList.push(new SoundTemplate("res/sound/bg.mp3",enumSoundName.bg));
+    }
+}
+
+/**
+ * 数据表配置
+ */
+export class ConfigData extends Singleton{
+
+    /**json配置表信息 */
+    public jsonTemplateList:Array<JsonTemplate>;
+
+    constructor()
+    {
+        super();
+        this.jsonTemplateList = new Array<JsonTemplate>();
+        this.jsonTemplateList = [
+            new JsonTemplate("res/data/BetData.json", "level", "level"),
+        ];
+    }
+
+    private static instance: ConfigData = null;
+    public static get $():ConfigData {
+        if (!this.instance) this.instance = new ConfigData();
         return this.instance;
     }
 }
@@ -161,6 +233,8 @@ export class Config3D extends Singleton{
         return this.instance;
     }
 }
+
+
 
 // /**
 //  * Network配置

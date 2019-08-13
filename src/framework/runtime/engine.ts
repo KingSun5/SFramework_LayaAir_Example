@@ -1,11 +1,12 @@
 import { EventNode } from '../manager/event/event-node';
-import { ConfigLayout, ConfigUI, ConfigDebug, ConfigGame, ConfigVersion } from '../setting/config';
+import { ConfigLayout, ConfigUI, ConfigDebug, ConfigGame, ConfigVersion, ConfigRes } from '../setting/config';
 import { Log } from '../core/log';
 import { UtilTime } from '../util/time';
 import { enumDimension, enumAlige, enumScreenModel, enumScaleType } from '../setting/enum';
 import Browser = Laya.Browser;
-import { SceneManager } from '../manager/scene/scene-manager';
 import { ResManager } from '../manager/res/res-manager';
+import { EventFunc } from '../manager/event/event-data';
+import { LoadingView } from '../../client/view/layer-view/loading-view';
 /**
  * @author Sun
  * @time 2019-08-11 18:08
@@ -37,34 +38,29 @@ export class Engine{
     public run(): void {
         Log.info("::: Game Engine Run :::");
 
-        // if (ConfigUI.$.defaultLoadView != null && ConfigUI.$.defaultLoadRes != null) {
-        //     //游戏开始
-        //     UtilTime.start();
-        //     //初始化游戏管理器
-        //     this.managerSetUp();
-        //     //初始化游戏主循环
-        //     Laya.timer.frameLoop(1, this, this.managerUpdate);
-        //     //加载Loading页的默认资源
-        //     ResManager.$.loadManualAny(ConfigUI.$.defaultLoadRes,()=>{
-        //         let loadView = SceneManager.$.showLoadingView();
-        //         loadView.onStart();
-        //     });
-        // } else {
-        //    Log.error("Error:Loading资源为空加载失败！");
-        // }
-       
-        this.engineSetup(()=>{
-            //游戏开始
-            UtilTime.start();
-            //初始化游戏管理器
-            this.managerSetUp();
-            //初始化游戏主循环
-            Laya.timer.frameLoop(1, this, this.managerUpdate);
-            //加载Loading页
-            let loadView = SceneManager.$.showLoadingView();
-            loadView.onStart();
-        });
-       
+        if (ConfigUI.$.defaultLoadView != null && ConfigRes.$.defaultLoadRes != null) {
+
+            this.engineSetup(()=>{
+                //游戏开始
+                UtilTime.start();
+                //初始化游戏管理器
+                this.managerSetUp();
+                //初始化游戏主循环
+                Laya.timer.frameLoop(1, this, this.managerUpdate);
+                //加载Loading页的默认资源并显示Loading页
+                ResManager.$.loadGroup(ConfigRes.$.defaultLoadRes,null,new EventFunc(this,()=>{
+                    let scrpt = ConfigUI.$.defaultLoadView;
+                    if (scrpt != undefined) {
+                        let loadingView = new scrpt();
+                        Laya.stage.addChild(loadingView);
+                        loadingView.onStart();
+                    }
+                }))
+            });
+           
+        } else {
+           Log.error("Error:Loading资源为空加载失败！");
+        }
        
     }
 

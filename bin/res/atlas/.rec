@@ -1,8 +1,25 @@
 D .
 D res
 R 3AF6FF8D .DS_Store
+D res/data
+R 9FCE780A BetData.json
 D res/loading
 R 1B8CE7BB img_8r.png
 R 616C6769 img_loading_bg.png
 R B9EE4DB9 progress_loading$bar.png
 R ECD94A08 progress_loading.png
+D res/main
+D res/main/bg
+R 76D1178C bg.png
+D res/main/d3
+D res/main/effect
+P 8A1D4A5A btn_close.png
+P 02981C7D btn_common_1.png
+P 0C2E55E2 btn_common_2.png
+P DE55D264 btn_common_3.png
+P 61612DE5 btn_common_4.png
+P 438E52E3 image_status.png
+P D4413A80 img_diamond.png
+P 4AA6B301 img_glod.png
+D res/main/game
+D res/main/popup

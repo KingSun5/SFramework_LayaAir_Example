@@ -1,3 +1,4 @@
+import {ui} from "../../../ui/layaMaxUI";
 import Browser = Laya.Browser;
 import gameUI = ui.view.main.gameUI;
 import Prefab = Laya.Prefab;
@@ -5,8 +6,9 @@ import Tween = Laya.Tween;
 import Ease = Laya.Ease;
 import Handler = Laya.Handler;
 import Point = Laya.Point;
-import {ui} from "../../../ui/layaMaxUI";
 import { DataBase } from '../../../framework/manager/data/data-base';
+import { ResManager } from '../../../framework/manager/res/res-manager';
+import { Log } from '../../../framework/core/log';
 
 
 /**
@@ -86,8 +88,6 @@ export class GameView extends gameUI {
     /** Des:构造是初始化一次 */
     private initOnce()
     {
-      
-
     }
 
     /** Des:每次弹出初始化 */
