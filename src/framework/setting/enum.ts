@@ -167,9 +167,10 @@ export enum enumElementPrefix {
  * 数据表配置
  */
 export enum enumJsonDefine {
-    lottery = "lottery",
     invite = "invite",
     level = "level",
+    lottery = "lottery",
+    offline = "offline",
 }
 
 /**

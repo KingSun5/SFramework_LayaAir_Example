@@ -4,6 +4,8 @@ import effectUI =  ui.view.main.effectUI;
 import Browser = Laya.Browser;
 import { DataBase } from '../../../framework/manager/data/data-base';
 import { Log } from '../../../framework/core/log';
+import { LotteryView } from '../component-view/lottery-view';
+import { PopupData } from '../../../framework/manager/ui/dialog-base';
 
 export class EffectView extends effectUI{
 
@@ -77,7 +79,8 @@ export class EffectView extends effectUI{
     private initOnce()
     {
         this.btnLucky.on(Laya.Event.CLICK,this,()=>{
-            Log.log("测试");
+           let view = LotteryView.$;
+           view.popupDialog();
         });
     }
 

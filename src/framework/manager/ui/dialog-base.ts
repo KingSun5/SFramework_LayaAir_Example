@@ -5,6 +5,7 @@ import Tween = Laya.Tween;
 import Ease = Laya.Ease;
 import Handler = Laya.Handler;
 import { UtilDisplay } from "../../util/display";
+import { EventFunc } from '../event/event-data';
 
 export module CustomDialog{
 
@@ -16,11 +17,13 @@ export module CustomDialog{
      *
      */
     export class DialogBase extends Laya.Dialog {
-
+        
+        /**遮罩层 */
         private maskLayer: Sprite = null;
+        /**弹窗内物体 */
         private contentPnl: Laya.Node = null;
-        public data: any = null;
-        public isMask: boolean = true;
+        /**弹窗数据 */
+        public popupData = new PopupData();
 
         createView(view: any): void {
             super.createView(view);
@@ -85,22 +88,22 @@ export module CustomDialog{
          * @param isMask 是否生成遮罩
          * @param closeOutside 是否点击空白处关闭
          */
-        popupDialog(time: number = 300, data: any = null, isMask: boolean = true, closeOutside: boolean = true,cb?): void {
+        popupDialog(popupData:PopupData = null): void {
             this.popup(false,false);
-            this.data = data
-            this.isMask = isMask;
-            Laya.stage.addChild(this);
 
-            this.zOrder = 2000;
-            this.popupInit();
-
-            if (this.isMask && this.maskLayer == null) {
-                this.crateMaskLayer();
-                if (closeOutside) this.maskLayer.on(Laya.Event.CLICK, this, this.close);
+            if(popupData==null) {
+                popupData = this.popupData;
+            }else{
+                this.popupData = popupData;
             }
-
-            this.onShowAnimation(time,()=>{
-                if(cb) cb.call();
+            Laya.stage.addChild(this);
+            this.popupInit();
+            if (popupData.isMask && this.maskLayer == null) {
+                this.crateMaskLayer();
+                if (!popupData.closeOutside) this.maskLayer.on(Laya.Event.CLICK, this, this.close);
+            }
+            this.onShowAnimation(popupData.time,()=>{
+                if(popupData.callBack) popupData.callBack.invoke();
             });
         }
 
@@ -112,7 +115,7 @@ export module CustomDialog{
         onShowAnimation(time: number = 300,cb) {
             let target = this.contentPnl;
             this.center();
-
+            
             // @ts-ignore
             target.scale(0, 0);
             Tween.to(target, {
@@ -129,3 +132,28 @@ export module CustomDialog{
 
     }
 }
+
+
+    /**
+     * @author Sun
+     * @time 2019-08-12 17:43
+     * @project SFramework_LayaAir
+     * @description  窗体弹出数据
+     *time: number = 300, data: any = null, isMask: boolean = true, closeOutside: boolean = true,cb?
+     */
+    export class PopupData{
+        public time:number = 300;
+        public data:any = null;
+        public isMask:boolean = true;
+        public closeOutside:boolean = true;
+        public callBack:EventFunc = null;
+
+        constructor(time: number = 300, data: any = null, isMask: boolean = true, closeOutside: boolean = true,cb:EventFunc =null)
+        {
+            if(time!=null) this.time = time;
+            if(data!=null) this.data = data;
+            if(isMask!=null) this.isMask = isMask;
+            if(closeOutside!=null) this.closeOutside = closeOutside;
+            if(cb!=null) this.callBack = cb;
+        }
+    }

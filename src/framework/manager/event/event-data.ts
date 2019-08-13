@@ -1,11 +1,10 @@
-/**
- * 事件数据定义类
- *
- * @author Tim Wars
- * @date 2019-01-20 00:23
- * @project firebolt
- * @copyright (C) DONOPO
- *
+
+
+ /**
+ * @author Sun
+ * @time 2019-08-12 17:13
+ * @project SFramework_LayaAir
+ * @description 事件数据定义类
  */
 export class EventData {
 
@@ -34,14 +33,12 @@ export class EventData {
     }
 }
 
-/**
- * 事件回调函数定义
- *
- * @author Tim Wars
- * @date 2019-01-20 00:24
- * @project firebolt
- * @copyright (C) DONOPO
- *
+
+ /**
+ * @author Sun
+ * @time 2019-01-20 00:24
+ * @project SFramework_LayaAir
+ * @description 事件回调函数定义
  */
 export class EventFunc {
 

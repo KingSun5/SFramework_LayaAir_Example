@@ -10,7 +10,6 @@ import { UtilNumber } from '../../../framework/util/number';
 import { enumDimension } from '../../../framework/setting/enum';
 import { GameView } from './game-view';
 import { EffectView } from './effect-view';
-import { PopupView } from './popup-view';
 import { EventFunc } from '../../../framework/manager/event/event-data';
 import { Log } from '../../../framework/core/log';
 import { ResManager } from '../../../framework/manager/res/res-manager';
@@ -79,9 +78,6 @@ export class LoadingView extends loadingUI implements ILoaing{
         //效果页
         let effectView = EffectView.$;
         Laya.stage.addChild(effectView);
-        //弹窗页
-        let popupView = PopupView.$;
-        Laya.stage.addChild(popupView);
         //结束销毁加载页
         this.destroy();
     }

@@ -7,6 +7,11 @@ import Browser = Laya.Browser;
 import { ResManager } from '../manager/res/res-manager';
 import { EventFunc } from '../manager/event/event-data';
 import { LoadingView } from '../../client/view/layer-view/loading-view';
+import { DataManager } from '../manager/data/data-manager';
+import { EventManager } from '../manager/event/event-manager';
+import { JsonManager } from '../manager/json/json-manager';
+import { SoundManager } from '../manager/sound/sound-manager';
+import { TimerManager } from '../manager/timer/timer-manager';
 /**
  * @author Sun
  * @time 2019-08-11 18:08
@@ -125,17 +130,12 @@ export class Engine{
      * 管理器的初始化
      */
     private  managerSetUp(): void {
-        // DataManager.$.setup();
-        // EventManager.$.setup();
-        // InputManager.$.setup();
-        // ResManager.$.setup();
-        // JsonManager.$.setup();
-        // LocaleManager.$.setup();
-        // NetManager.$.setup();
-        // ObjectManager.$.setup();
-        // SceneManager.$.setup();
-        // SoundManager.$.setup();
-        // TimerManager.$.setup();
+        DataManager.$.setup();
+        EventManager.$.setup();
+        ResManager.$.setup();
+        JsonManager.$.setup();
+        SoundManager.$.setup();
+        TimerManager.$.setup();
     }
 
     /**

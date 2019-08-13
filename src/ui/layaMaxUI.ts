@@ -44,7 +44,10 @@ export module ui.view.com {
     REG("ui.view.com.inviteUI",inviteUI);
     export class lotteryUI extends DialogBase {
 		public idle:FrameAnimation;
-        public static  uiView:any ={"type":"DialogBase","props":{"width":750,"height":1334},"compId":2,"animations":[{"nodes":[{"target":34,"keyframes":{"x":[{"value":367,"tweenMethod":"linearNone","tween":true,"target":34,"key":"x","index":0},{"value":367,"tweenMethod":"linearNone","tween":true,"target":34,"key":"x","index":10},{"value":367,"tweenMethod":"linearNone","tween":true,"target":34,"key":"x","index":25}],"visible":[{"value":true,"tweenMethod":"linearNone","tween":false,"target":34,"key":"visible","index":0},{"value":false,"tweenMethod":"linearNone","tween":false,"target":34,"key":"visible","index":10},{"value":true,"tweenMethod":"linearNone","tween":false,"target":34,"key":"visible","index":15},{"value":false,"tweenMethod":"linearNone","tween":false,"target":34,"key":"visible","index":25},{"value":true,"tweenMethod":"linearNone","tween":false,"target":34,"key":"visible","index":30}],"rotation":[{"value":0,"tweenMethod":"linearNone","tween":true,"target":34,"key":"rotation","index":0},{"value":0,"tweenMethod":"linearNone","tween":true,"target":34,"key":"rotation","index":10},{"value":7,"tweenMethod":"linearNone","tween":true,"target":34,"key":"rotation","index":15},{"value":7,"tweenMethod":"linearNone","tween":true,"target":34,"key":"rotation","index":25},{"value":0,"tweenMethod":"linearNone","tween":true,"target":34,"key":"rotation","index":30}]}}],"name":"idle","id":1,"frameRate":24,"action":0}],"loadList":[],"loadList3D":[]};
+		public imgContext:Image;
+		public btnConfirm:Button;
+		public btnClose:Button;
+        public static  uiView:any ={"type":"DialogBase","props":{"y":0,"x":0,"width":750,"height":1334},"compId":2,"child":[{"type":"Image","props":{"y":615,"x":375,"skin":"res/com/img_lottery_border.png","anchorY":0.5,"anchorX":0.5},"compId":45,"child":[{"type":"Image","props":{"y":314,"x":314,"var":"imgContext","skin":"res/com/img_lottery_content.png","anchorY":0.5,"anchorX":0.5},"compId":46},{"type":"Image","props":{"y":-66,"x":253,"skin":"res/com/img_zhen.png"},"compId":47},{"type":"Button","props":{"y":780,"x":314,"width":258,"var":"btnConfirm","stateNum":1,"skin":"res/main/effect/btn_common_2.png","height":130,"anchorY":0.5,"anchorX":0.5},"compId":48,"child":[{"type":"Label","props":{"valign":"middle","top":0,"text":"抽奖","right":0,"left":0,"fontSize":60,"bottom":0,"bold":true,"align":"center"},"compId":49}]},{"type":"Button","props":{"y":-194,"x":587,"var":"btnClose","stateNum":1,"skin":"res/main/effect/btn_close.png","anchorY":0.5,"anchorX":0.5},"compId":50}]}],"animations":[{"nodes":[{"target":34,"keyframes":{"x":[{"value":367,"tweenMethod":"linearNone","tween":true,"target":34,"key":"x","index":0},{"value":367,"tweenMethod":"linearNone","tween":true,"target":34,"key":"x","index":10},{"value":367,"tweenMethod":"linearNone","tween":true,"target":34,"key":"x","index":25}],"visible":[{"value":true,"tweenMethod":"linearNone","tween":false,"target":34,"key":"visible","index":0},{"value":false,"tweenMethod":"linearNone","tween":false,"target":34,"key":"visible","index":10},{"value":true,"tweenMethod":"linearNone","tween":false,"target":34,"key":"visible","index":15},{"value":false,"tweenMethod":"linearNone","tween":false,"target":34,"key":"visible","index":25},{"value":true,"tweenMethod":"linearNone","tween":false,"target":34,"key":"visible","index":30}],"rotation":[{"value":0,"tweenMethod":"linearNone","tween":true,"target":34,"key":"rotation","index":0},{"value":0,"tweenMethod":"linearNone","tween":true,"target":34,"key":"rotation","index":10},{"value":7,"tweenMethod":"linearNone","tween":true,"target":34,"key":"rotation","index":15},{"value":7,"tweenMethod":"linearNone","tween":true,"target":34,"key":"rotation","index":25},{"value":0,"tweenMethod":"linearNone","tween":true,"target":34,"key":"rotation","index":30}]}}],"name":"idle","id":1,"frameRate":24,"action":0}],"loadList":["res/com/img_lottery_border.png","res/com/img_lottery_content.png","res/com/img_zhen.png","res/main/effect/btn_common_2.png","res/main/effect/btn_close.png"],"loadList3D":[]};
         constructor(){ super()}
         createChildren():void {
             super.createChildren();
@@ -129,13 +132,4 @@ export module ui.view.main {
         }
     }
     REG("ui.view.main.loadingUI",loadingUI);
-    export class popupUI extends ViewBase {
-        public static  uiView:any ={"type":"ViewBase","props":{"width":750,"height":1334},"compId":2,"loadList":[],"loadList3D":[]};
-        constructor(){ super()}
-        createChildren():void {
-            super.createChildren();
-            this.createView(popupUI.uiView);
-        }
-    }
-    REG("ui.view.main.popupUI",popupUI);
 }

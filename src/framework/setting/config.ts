@@ -65,7 +65,11 @@ export class ConfigRes extends Singleton{
         //手动配置主页资源
         this.defaultMainRes = new ResGroup();
         this.defaultMainRes
-        .add("res/atlas/res/main/effect.atlas", Laya.Loader.ATLAS);
+        .add("res/atlas/res/main/effect.atlas", Laya.Loader.ATLAS)
+        .add("res/atlas/res/com.atlas", Laya.Loader.ATLAS)
+        .add("res/com/img_lottery_border.png", Laya.Loader.IMAGE)
+        .add("res/com/img_lottery_content.png", Laya.Loader.IMAGE)
+        .add("res/main/bg/bg.png", Laya.Loader.IMAGE)
         //加载Json配置文件
         ConfigData.$.jsonTemplateList.forEach(item=>{
             this.defaultMainRes
@@ -124,7 +128,10 @@ export class ConfigData extends Singleton{
         super();
         this.jsonTemplateList = new Array<JsonTemplate>();
         this.jsonTemplateList = [
-            new JsonTemplate("res/data/BetData.json", "level", "level"),
+            new JsonTemplate("res/data/InviteData.json", enumJsonDefine.invite),
+            new JsonTemplate("res/data/LevelData.json", enumJsonDefine.level),
+            new JsonTemplate("res/data/OfflineData.json", enumJsonDefine.offline),
+            new JsonTemplate("res/data/TurntableData.json", enumJsonDefine.lottery),
         ];
     }
 

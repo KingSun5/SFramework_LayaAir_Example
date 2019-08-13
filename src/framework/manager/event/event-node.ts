@@ -3,14 +3,11 @@ import { Log } from '../../core/log';
 import { Singleton } from '../../core/singleton';
 
 
-/**
- * 所有需要监控事件节点的基类
- *
- * @author Tim Wars
- * @date 2019-01-18 16:20
- * @project firebolt
- * @copyright (C) DONOPO
- *
+ /**
+ * @author Sun
+ * @time 2019-01-18 16:20
+ * @project SFramework_LayaAir
+ * @description 所有需要监控事件节点的基类
  */
 export class EventNode extends Singleton {
 

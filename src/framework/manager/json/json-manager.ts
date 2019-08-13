@@ -67,22 +67,9 @@ export class JsonManager extends Singleton implements IManager {
      * @param list
      */
     private load(list: JsonTemplate[]): void {
-        let res: JsonTemplate;
         for (let i = 0; i < list.length; ++i) {
-            Log.log("[load]加载配置表:" + res.url);
-            res = list[i];
-            this.m_DicTemplate.add(res.url, res);
-            let json_res = ResManager.$.getRes(res.url);
-            if(this.m_DicData.hasKey(res.name))
-            {
-                Log.log("Json重复Key："+res.name);
-                return;
-            }
-            if(UtilString.isEmpty(res.name)){
-                Log.log("JsonName is Empty!");
-                return;
-            }
-            this.m_DicData.add(res.name, json_res);
+            Log.log("[load]加载配置表:" + list[i].url);
+            this.m_DicTemplate.add(list[i].name, list[i]);
         }
     }
 
@@ -92,7 +79,13 @@ export class JsonManager extends Singleton implements IManager {
      * @param name
      */
     public getTable(name: string): any {
-        return this.m_DicData.value(name);
+        
+        let data = this.m_DicData.value(name);
+        if(data==null){
+            data = ResManager.$.getRes(this.m_DicTemplate.value(name).url);
+            this.m_DicData.add(name,data);
+        }
+        return data;
     }
 
     /**
@@ -101,7 +94,7 @@ export class JsonManager extends Singleton implements IManager {
      * @param key
      */
     public getTableRow(name: string, key: string|number): any {
-        return this.m_DicData.value(name)[key];
+        return this.getTable(name)[key];
     }
 
    
@@ -110,13 +103,13 @@ export class JsonManager extends Singleton implements IManager {
      * 卸载指定的模板
      * @param url
      */
-    public unload(url: string): void {
-        let template = this.m_DicTemplate.value(url);
+    public unload(name: string): void {
+        let template = this.m_DicTemplate.value(name);
         if (template) {
-            this.m_DicData.remove(template.name);
+            this.m_DicData.remove(name);
         }
-        ResManager.$.releaseUrl(url);
-        this.m_DicTemplate.remove(url);
+        ResManager.$.releaseUrl(template.url);
+        this.m_DicTemplate.remove(name);
     }
 
     /**

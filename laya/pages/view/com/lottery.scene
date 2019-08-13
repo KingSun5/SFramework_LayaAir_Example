@@ -1,19 +1,103 @@
 {
     "x":0,
     "type":"DialogBase",
-    "selectedBox":2,
+    "selectedBox":45,
+    "selecteID":46,
     "searchKey":"DialogBase",
-    "props":{"width":750,"sceneColor":"#000000","height":1334},
+    "props":{"y":0,"x":0,"width":750,"sceneColor":"#000000","height":1334},
     "nodeParent":-1,
-    "maxID":45,
+    "maxID":51,
     "label":"DialogBase",
     "isOpen":true,
-    "isDirectory":false,
+    "isDirectory":true,
     "isAniNode":true,
-    "hasChild":false,
+    "hasChild":true,
     "compId":2,
     "child":[
-        ],
+        {
+            "x":15,
+            "type":"Image",
+            "searchKey":"Image",
+            "props":{"y":615,"x":375,"skin":"res/com/img_lottery_border.png","anchorY":0.5,"anchorX":0.5},
+            "nodeParent":2,
+            "label":"Image",
+            "isOpen":true,
+            "isDirectory":true,
+            "isAniNode":true,
+            "hasChild":true,
+            "compId":45,
+            "child":[
+                {
+                    "x":30,
+                    "type":"Image",
+                    "searchKey":"Image,imgContext",
+                    "props":{"y":314,"x":314,"var":"imgContext","skin":"res/com/img_lottery_content.png","anchorY":0.5,"anchorX":0.5},
+                    "nodeParent":45,
+                    "label":"imgContext",
+                    "isDirectory":false,
+                    "isAniNode":true,
+                    "hasChild":false,
+                    "compId":46,
+                    "child":[
+                        ],
+                    "$HIDDEN":false
+                },
+                {
+                    "x":30,
+                    "type":"Image",
+                    "searchKey":"Image",
+                    "props":{"y":-66,"x":253,"skin":"res/com/img_zhen.png"},
+                    "nodeParent":45,
+                    "label":"Image",
+                    "isDirectory":false,
+                    "isAniNode":true,
+                    "hasChild":false,
+                    "compId":47,
+                    "child":[
+                        ]
+                },
+                {
+                    "x":30,
+                    "type":"Button",
+                    "searchKey":"Button,btnConfirm",
+                    "props":{"y":780,"x":314,"width":258,"var":"btnConfirm","stateNum":"1","skin":"res/main/effect/btn_common_2.png","height":130,"anchorY":0.5,"anchorX":0.5},
+                    "nodeParent":45,
+                    "label":"btnConfirm",
+                    "isOpen":false,
+                    "isDirectory":true,
+                    "isAniNode":true,
+                    "hasChild":true,
+                    "compId":48,
+                    "child":[
+                        {
+                            "type":"Label",
+                            "searchKey":"Label",
+                            "props":{"valign":"middle","top":0,"text":"抽奖","right":0,"left":0,"fontSize":60,"bottom":0,"bold":true,"align":"center"},
+                            "nodeParent":48,
+                            "label":"Label",
+                            "isDirectory":false,
+                            "isAniNode":true,
+                            "hasChild":false,
+                            "compId":49,
+                            "child":[
+                                ]
+                        }]
+                },
+                {
+                    "x":30,
+                    "type":"Button",
+                    "searchKey":"Button,btnClose",
+                    "props":{"y":-194,"x":587,"var":"btnClose","stateNum":"1","skin":"res/main/effect/btn_close.png","anchorY":0.5,"anchorX":0.5},
+                    "nodeParent":45,
+                    "label":"btnClose",
+                    "isDirectory":false,
+                    "isAniNode":true,
+                    "hasChild":false,
+                    "compId":50,
+                    "child":[
+                        ]
+                }]
+        }],
     "animations":[
         {
             "nodes":[

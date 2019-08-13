@@ -1,8 +1,15 @@
 D .
 D res
 R 3AF6FF8D .DS_Store
+D res/com
+R 87D0A258 img_lottery_border.png
+R 5FE87C22 img_lottery_content.png
+P 653A9E4E img_zhen.png
 D res/data
-R 9FCE780A BetData.json
+R 0E304154 InviteData.json
+R F9F49097 LevelData.json
+R 48BE67C4 OfflineData.json
+R 30C57CF6 TurntableData.json
 D res/loading
 R 1B8CE7BB img_8r.png
 R 616C6769 img_loading_bg.png

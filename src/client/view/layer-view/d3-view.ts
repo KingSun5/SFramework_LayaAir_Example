@@ -1,5 +1,4 @@
 import Browser = Laya.Browser;
-import {PopupView} from "./popup-view";
 import {GameView} from "./game-view";
 import {EffectView} from "./effect-view";
 import { ui } from '../../../ui/layaMaxUI';

@@ -2,14 +2,12 @@ import { EventNode, EventContext, EventCallbackListener } from './event-node';
 import { EventData } from './event-data';
 import { IManager } from '../../interface/i-manager';
 
-/**
- * 事件管理器
- *
- * @author Tim Wars
- * @date 2019-01-18 16:20
- * @project firebolt
- * @copyright (C) DONOPO
- *
+
+ /**
+ * @author Sun
+ * @time 2019-01-18 16:20
+ * @project SFramework_LayaAir
+ * @description 事件管理器
  */
 export class EventManager extends EventNode implements IManager {
 
