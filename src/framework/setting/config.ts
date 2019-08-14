@@ -148,7 +148,7 @@ export class ConfigData extends Singleton{
 export class ConfigGame extends Singleton {
  
     /**默认模式信息 2D/3D */
-    public dimension: enumDimension = enumDimension.Dim2;
+    public dimension: enumDimension = enumDimension.Dim3;
     /**物理开关 */
     public physics:boolean = false;
   
@@ -232,7 +232,7 @@ export class ConfigDebug extends Singleton {
 export class Config3D extends Singleton{
 
     /**场景资源路径 */
-    public scenePath:string = "";
+    public scenePath:string = "res/u3d/LayaScene_Main/Conventional/Main.ls";
 
     private static instance: Config3D = null;
     public static get $():Config3D {

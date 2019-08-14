@@ -1,0 +1,8 @@
+[
+{"id":"1","rangeMin":"1","rangeMax":"35","reward":"2"},
+{"id":"2","rangeMin":"36","rangeMax":"55","reward":"3"},
+{"id":"3","rangeMin":"56","rangeMax":"75","reward":"5"},
+{"id":"4","rangeMin":"76","rangeMax":"85","reward":"6"},
+{"id":"5","rangeMin":"86","rangeMax":"94","reward":"7"},
+{"id":"6","rangeMin":"95","rangeMax":"100","reward":"10"}
+]

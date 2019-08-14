@@ -10,12 +10,16 @@ R 0E304154 InviteData.json
 R F9F49097 LevelData.json
 R 48BE67C4 OfflineData.json
 R 30C57CF6 TurntableData.json
+D res/dialog
+R 87D0A258 img_lottery_border.png
+R 5FE87C22 img_lottery_content.png
 D res/loading
 R 1B8CE7BB img_8r.png
 R 616C6769 img_loading_bg.png
 R B9EE4DB9 progress_loading$bar.png
 R ECD94A08 progress_loading.png
 D res/main
+D res/u3d
 D res/main/bg
 R 76D1178C bg.png
 D res/main/d3
@@ -30,3 +34,10 @@ P D4413A80 img_diamond.png
 P 4AA6B301 img_glod.png
 D res/main/game
 D res/main/popup
+D res/u3d/LayaScene_Main
+D res/u3d/LayaScene_Main/Conventional
+R C89BF0E1 Main.ls
+D res/u3d/LayaScene_Main/Conventional/Library
+R 1B9D0F79 unity default resources-Cube.lm
+D res/u3d/LayaScene_Main/Conventional/Resources
+R EB8C63A1 unity_builtin_extra.lmat

@@ -1,0 +1,5002 @@
+[
+    {
+        "level": 0, 
+        "coinNeed": "1.9800e+02", 
+        "revenue": "9.9000e+03"
+    }, 
+    {
+        "level": 1, 
+        "coinNeed": "2.2680e+02", 
+        "revenue": "1.0800e+04"
+    }, 
+    {
+        "level": 2, 
+        "coinNeed": "2.5740e+02", 
+        "revenue": "1.1700e+04"
+    }, 
+    {
+        "level": 3, 
+        "coinNeed": "2.8980e+02", 
+        "revenue": "1.2600e+04"
+    }, 
+    {
+        "level": 4, 
+        "coinNeed": "3.2400e+02", 
+        "revenue": "1.3500e+04"
+    }, 
+    {
+        "level": 5, 
+        "coinNeed": "3.6000e+02", 
+        "revenue": "1.4400e+04"
+    }, 
+    {
+        "level": 6, 
+        "coinNeed": "3.9780e+02", 
+        "revenue": "1.5300e+04"
+    }, 
+    {
+        "level": 7, 
+        "coinNeed": "4.3740e+02", 
+        "revenue": "1.6200e+04"
+    }, 
+    {
+        "level": 8, 
+        "coinNeed": "4.7880e+02", 
+        "revenue": "1.7100e+04"
+    }, 
+    {
+        "level": 9, 
+        "coinNeed": "5.2200e+02", 
+        "revenue": "1.8000e+04"
+    }, 
+    {
+        "level": 10, 
+        "coinNeed": "8.9100e+02", 
+        "revenue": "2.9700e+04"
+    }, 
+    {
+        "level": 11, 
+        "coinNeed": "1.0044e+03", 
+        "revenue": "3.2400e+04"
+    }, 
+    {
+        "level": 12, 
+        "coinNeed": "1.1232e+03", 
+        "revenue": "3.5100e+04"
+    }, 
+    {
+        "level": 13, 
+        "coinNeed": "1.2474e+03", 
+        "revenue": "3.7800e+04"
+    }, 
+    {
+        "level": 14, 
+        "coinNeed": "1.3770e+03", 
+        "revenue": "4.0500e+04"
+    }, 
+    {
+        "level": 15, 
+        "coinNeed": "1.5120e+03", 
+        "revenue": "4.3200e+04"
+    }, 
+    {
+        "level": 16, 
+        "coinNeed": "1.6524e+03", 
+        "revenue": "4.5900e+04"
+    }, 
+    {
+        "level": 17, 
+        "coinNeed": "1.7982e+03", 
+        "revenue": "4.8600e+04"
+    }, 
+    {
+        "level": 18, 
+        "coinNeed": "1.9494e+03", 
+        "revenue": "5.1300e+04"
+    }, 
+    {
+        "level": 19, 
+        "coinNeed": "2.1060e+03", 
+        "revenue": "5.4000e+04"
+    }, 
+    {
+        "level": 20, 
+        "coinNeed": "2.3760e+03", 
+        "revenue": "5.9400e+04"
+    }, 
+    {
+        "level": 21, 
+        "coinNeed": "2.6568e+03", 
+        "revenue": "6.4800e+04"
+    }, 
+    {
+        "level": 22, 
+        "coinNeed": "2.9484e+03", 
+        "revenue": "7.0200e+04"
+    }, 
+    {
+        "level": 23, 
+        "coinNeed": "3.2508e+03", 
+        "revenue": "7.5600e+04"
+    }, 
+    {
+        "level": 24, 
+        "coinNeed": "3.5640e+03", 
+        "revenue": "8.1000e+04"
+    }, 
+    {
+        "level": 25, 
+        "coinNeed": "3.8880e+03", 
+        "revenue": "8.6400e+04"
+    }, 
+    {
+        "level": 26, 
+        "coinNeed": "4.2228e+03", 
+        "revenue": "9.1800e+04"
+    }, 
+    {
+        "level": 27, 
+        "coinNeed": "4.5684e+03", 
+        "revenue": "9.7200e+04"
+    }, 
+    {
+        "level": 28, 
+        "coinNeed": "4.9248e+03", 
+        "revenue": "1.0260e+05"
+    }, 
+    {
+        "level": 29, 
+        "coinNeed": "5.2920e+03", 
+        "revenue": "1.0800e+05"
+    }, 
+    {
+        "level": 30, 
+        "coinNeed": "4.9500e+03", 
+        "revenue": "9.9000e+04"
+    }, 
+    {
+        "level": 31, 
+        "coinNeed": "5.5080e+03", 
+        "revenue": "1.0800e+05"
+    }, 
+    {
+        "level": 32, 
+        "coinNeed": "6.0840e+03", 
+        "revenue": "1.1700e+05"
+    }, 
+    {
+        "level": 33, 
+        "coinNeed": "6.6780e+03", 
+        "revenue": "1.2600e+05"
+    }, 
+    {
+        "level": 34, 
+        "coinNeed": "7.2900e+03", 
+        "revenue": "1.3500e+05"
+    }, 
+    {
+        "level": 35, 
+        "coinNeed": "7.9200e+03", 
+        "revenue": "1.4400e+05"
+    }, 
+    {
+        "level": 36, 
+        "coinNeed": "8.5680e+03", 
+        "revenue": "1.5300e+05"
+    }, 
+    {
+        "level": 37, 
+        "coinNeed": "9.2340e+03", 
+        "revenue": "1.6200e+05"
+    }, 
+    {
+        "level": 38, 
+        "coinNeed": "9.9180e+03", 
+        "revenue": "1.7100e+05"
+    }, 
+    {
+        "level": 39, 
+        "coinNeed": "1.0620e+04", 
+        "revenue": "1.8000e+05"
+    }, 
+    {
+        "level": 40, 
+        "coinNeed": "1.4850e+04", 
+        "revenue": "2.4750e+05"
+    }, 
+    {
+        "level": 41, 
+        "coinNeed": "1.6470e+04", 
+        "revenue": "2.7000e+05"
+    }, 
+    {
+        "level": 42, 
+        "coinNeed": "1.8135e+04", 
+        "revenue": "2.9250e+05"
+    }, 
+    {
+        "level": 43, 
+        "coinNeed": "1.9845e+04", 
+        "revenue": "3.1500e+05"
+    }, 
+    {
+        "level": 44, 
+        "coinNeed": "2.1600e+04", 
+        "revenue": "3.3750e+05"
+    }, 
+    {
+        "level": 45, 
+        "coinNeed": "2.3400e+04", 
+        "revenue": "3.6000e+05"
+    }, 
+    {
+        "level": 46, 
+        "coinNeed": "2.5245e+04", 
+        "revenue": "3.8250e+05"
+    }, 
+    {
+        "level": 47, 
+        "coinNeed": "2.7135e+04", 
+        "revenue": "4.0500e+05"
+    }, 
+    {
+        "level": 48, 
+        "coinNeed": "2.9070e+04", 
+        "revenue": "4.2750e+05"
+    }, 
+    {
+        "level": 49, 
+        "coinNeed": "3.1050e+04", 
+        "revenue": "4.5000e+05"
+    }, 
+    {
+        "level": 50, 
+        "coinNeed": "2.2869e+04", 
+        "revenue": "3.2670e+05"
+    }, 
+    {
+        "level": 51, 
+        "coinNeed": "2.5304e+04", 
+        "revenue": "3.5640e+05"
+    }, 
+    {
+        "level": 52, 
+        "coinNeed": "2.7799e+04", 
+        "revenue": "3.8610e+05"
+    }, 
+    {
+        "level": 53, 
+        "coinNeed": "3.0353e+04", 
+        "revenue": "4.1580e+05"
+    }, 
+    {
+        "level": 54, 
+        "coinNeed": "3.2967e+04", 
+        "revenue": "4.4550e+05"
+    }, 
+    {
+        "level": 55, 
+        "coinNeed": "3.5640e+04", 
+        "revenue": "4.7520e+05"
+    }, 
+    {
+        "level": 56, 
+        "coinNeed": "3.8372e+04", 
+        "revenue": "5.0490e+05"
+    }, 
+    {
+        "level": 57, 
+        "coinNeed": "4.1164e+04", 
+        "revenue": "5.3460e+05"
+    }, 
+    {
+        "level": 58, 
+        "coinNeed": "4.4015e+04", 
+        "revenue": "5.6430e+05"
+    }, 
+    {
+        "level": 59, 
+        "coinNeed": "4.6926e+04", 
+        "revenue": "5.9400e+05"
+    }, 
+    {
+        "level": 60, 
+        "coinNeed": "3.3264e+04", 
+        "revenue": "4.1580e+05"
+    }, 
+    {
+        "level": 61, 
+        "coinNeed": "3.6742e+04", 
+        "revenue": "4.5360e+05"
+    }, 
+    {
+        "level": 62, 
+        "coinNeed": "4.0295e+04", 
+        "revenue": "4.9140e+05"
+    }, 
+    {
+        "level": 63, 
+        "coinNeed": "4.3924e+04", 
+        "revenue": "5.2920e+05"
+    }, 
+    {
+        "level": 64, 
+        "coinNeed": "4.7628e+04", 
+        "revenue": "5.6700e+05"
+    }, 
+    {
+        "level": 65, 
+        "coinNeed": "5.1408e+04", 
+        "revenue": "6.0480e+05"
+    }, 
+    {
+        "level": 66, 
+        "coinNeed": "5.5264e+04", 
+        "revenue": "6.4260e+05"
+    }, 
+    {
+        "level": 67, 
+        "coinNeed": "5.9195e+04", 
+        "revenue": "6.8040e+05"
+    }, 
+    {
+        "level": 68, 
+        "coinNeed": "6.3202e+04", 
+        "revenue": "7.1820e+05"
+    }, 
+    {
+        "level": 69, 
+        "coinNeed": "6.7284e+04", 
+        "revenue": "7.5600e+05"
+    }, 
+    {
+        "level": 70, 
+        "coinNeed": "4.6332e+04", 
+        "revenue": "5.1480e+05"
+    }, 
+    {
+        "level": 71, 
+        "coinNeed": "5.1106e+04", 
+        "revenue": "5.6160e+05"
+    }, 
+    {
+        "level": 72, 
+        "coinNeed": "5.5973e+04", 
+        "revenue": "6.0840e+05"
+    }, 
+    {
+        "level": 73, 
+        "coinNeed": "6.0934e+04", 
+        "revenue": "6.5520e+05"
+    }, 
+    {
+        "level": 74, 
+        "coinNeed": "6.5988e+04", 
+        "revenue": "7.0200e+05"
+    }, 
+    {
+        "level": 75, 
+        "coinNeed": "7.1136e+04", 
+        "revenue": "7.4880e+05"
+    }, 
+    {
+        "level": 76, 
+        "coinNeed": "7.6378e+04", 
+        "revenue": "7.9560e+05"
+    }, 
+    {
+        "level": 77, 
+        "coinNeed": "8.1713e+04", 
+        "revenue": "8.4240e+05"
+    }, 
+    {
+        "level": 78, 
+        "coinNeed": "8.7142e+04", 
+        "revenue": "8.8920e+05"
+    }, 
+    {
+        "level": 79, 
+        "coinNeed": "9.2664e+04", 
+        "revenue": "9.3600e+05"
+    }, 
+    {
+        "level": 80, 
+        "coinNeed": "8.9100e+04", 
+        "revenue": "8.9100e+05"
+    }, 
+    {
+        "level": 81, 
+        "coinNeed": "9.8172e+04", 
+        "revenue": "9.7200e+05"
+    }, 
+    {
+        "level": 82, 
+        "coinNeed": "1.0741e+05", 
+        "revenue": "1.0530e+06"
+    }, 
+    {
+        "level": 83, 
+        "coinNeed": "1.1680e+05", 
+        "revenue": "1.1340e+06"
+    }, 
+    {
+        "level": 84, 
+        "coinNeed": "1.2636e+05", 
+        "revenue": "1.2150e+06"
+    }, 
+    {
+        "level": 85, 
+        "coinNeed": "1.3608e+05", 
+        "revenue": "1.2960e+06"
+    }, 
+    {
+        "level": 86, 
+        "coinNeed": "1.4596e+05", 
+        "revenue": "1.3770e+06"
+    }, 
+    {
+        "level": 87, 
+        "coinNeed": "1.5601e+05", 
+        "revenue": "1.4580e+06"
+    }, 
+    {
+        "level": 88, 
+        "coinNeed": "1.6621e+05", 
+        "revenue": "1.5390e+06"
+    }, 
+    {
+        "level": 89, 
+        "coinNeed": "1.7658e+05", 
+        "revenue": "1.6200e+06"
+    }, 
+    {
+        "level": 90, 
+        "coinNeed": "1.0890e+05", 
+        "revenue": "9.9000e+05"
+    }, 
+    {
+        "level": 91, 
+        "coinNeed": "1.1988e+05", 
+        "revenue": "1.0800e+06"
+    }, 
+    {
+        "level": 92, 
+        "coinNeed": "1.3104e+05", 
+        "revenue": "1.1700e+06"
+    }, 
+    {
+        "level": 93, 
+        "coinNeed": "1.4238e+05", 
+        "revenue": "1.2600e+06"
+    }, 
+    {
+        "level": 94, 
+        "coinNeed": "1.5390e+05", 
+        "revenue": "1.3500e+06"
+    }, 
+    {
+        "level": 95, 
+        "coinNeed": "1.6560e+05", 
+        "revenue": "1.4400e+06"
+    }, 
+    {
+        "level": 96, 
+        "coinNeed": "1.7748e+05", 
+        "revenue": "1.5300e+06"
+    }, 
+    {
+        "level": 97, 
+        "coinNeed": "1.8954e+05", 
+        "revenue": "1.6200e+06"
+    }, 
+    {
+        "level": 98, 
+        "coinNeed": "2.0178e+05", 
+        "revenue": "1.7100e+06"
+    }, 
+    {
+        "level": 99, 
+        "coinNeed": "2.1420e+05", 
+        "revenue": "1.8000e+06"
+    }, 
+    {
+        "level": 100, 
+        "coinNeed": "2.6136e+05", 
+        "revenue": "2.1780e+06"
+    }, 
+    {
+        "level": 101, 
+        "coinNeed": "2.8750e+05", 
+        "revenue": "2.3760e+06"
+    }, 
+    {
+        "level": 102, 
+        "coinNeed": "3.1403e+05", 
+        "revenue": "2.5740e+06"
+    }, 
+    {
+        "level": 103, 
+        "coinNeed": "3.4096e+05", 
+        "revenue": "2.7720e+06"
+    }, 
+    {
+        "level": 104, 
+        "coinNeed": "3.6828e+05", 
+        "revenue": "2.9700e+06"
+    }, 
+    {
+        "level": 105, 
+        "coinNeed": "3.9600e+05", 
+        "revenue": "3.1680e+06"
+    }, 
+    {
+        "level": 106, 
+        "coinNeed": "4.2412e+05", 
+        "revenue": "3.3660e+06"
+    }, 
+    {
+        "level": 107, 
+        "coinNeed": "4.5263e+05", 
+        "revenue": "3.5640e+06"
+    }, 
+    {
+        "level": 108, 
+        "coinNeed": "4.8154e+05", 
+        "revenue": "3.7620e+06"
+    }, 
+    {
+        "level": 109, 
+        "coinNeed": "5.1084e+05", 
+        "revenue": "3.9600e+06"
+    }, 
+    {
+        "level": 110, 
+        "coinNeed": "6.1776e+05", 
+        "revenue": "4.7520e+06"
+    }, 
+    {
+        "level": 111, 
+        "coinNeed": "6.7910e+05", 
+        "revenue": "5.1840e+06"
+    }, 
+    {
+        "level": 112, 
+        "coinNeed": "7.4131e+05", 
+        "revenue": "5.6160e+06"
+    }, 
+    {
+        "level": 113, 
+        "coinNeed": "8.0438e+05", 
+        "revenue": "6.0480e+06"
+    }, 
+    {
+        "level": 114, 
+        "coinNeed": "8.6832e+05", 
+        "revenue": "6.4800e+06"
+    }, 
+    {
+        "level": 115, 
+        "coinNeed": "9.3312e+05", 
+        "revenue": "6.9120e+06"
+    }, 
+    {
+        "level": 116, 
+        "coinNeed": "9.9878e+05", 
+        "revenue": "7.3440e+06"
+    }, 
+    {
+        "level": 117, 
+        "coinNeed": "1.0653e+06", 
+        "revenue": "7.7760e+06"
+    }, 
+    {
+        "level": 118, 
+        "coinNeed": "1.1327e+06", 
+        "revenue": "8.2080e+06"
+    }, 
+    {
+        "level": 119, 
+        "coinNeed": "1.2010e+06", 
+        "revenue": "8.6400e+06"
+    }, 
+    {
+        "level": 120, 
+        "coinNeed": "1.0811e+06", 
+        "revenue": "7.7220e+06"
+    }, 
+    {
+        "level": 121, 
+        "coinNeed": "1.1878e+06", 
+        "revenue": "8.4240e+06"
+    }, 
+    {
+        "level": 122, 
+        "coinNeed": "1.2959e+06", 
+        "revenue": "9.1260e+06"
+    }, 
+    {
+        "level": 123, 
+        "coinNeed": "1.4054e+06", 
+        "revenue": "9.8280e+06"
+    }, 
+    {
+        "level": 124, 
+        "coinNeed": "1.5163e+06", 
+        "revenue": "1.0530e+07"
+    }, 
+    {
+        "level": 125, 
+        "coinNeed": "1.6286e+06", 
+        "revenue": "1.1232e+07"
+    }, 
+    {
+        "level": 126, 
+        "coinNeed": "1.7424e+06", 
+        "revenue": "1.1934e+07"
+    }, 
+    {
+        "level": 127, 
+        "coinNeed": "1.8575e+06", 
+        "revenue": "1.2636e+07"
+    }, 
+    {
+        "level": 128, 
+        "coinNeed": "1.9740e+06", 
+        "revenue": "1.3338e+07"
+    }, 
+    {
+        "level": 129, 
+        "coinNeed": "2.0920e+06", 
+        "revenue": "1.4040e+07"
+    }, 
+    {
+        "level": 130, 
+        "coinNeed": "1.8711e+06", 
+        "revenue": "1.2474e+07"
+    }, 
+    {
+        "level": 131, 
+        "coinNeed": "2.0548e+06", 
+        "revenue": "1.3608e+07"
+    }, 
+    {
+        "level": 132, 
+        "coinNeed": "2.2408e+06", 
+        "revenue": "1.4742e+07"
+    }, 
+    {
+        "level": 133, 
+        "coinNeed": "2.4290e+06", 
+        "revenue": "1.5876e+07"
+    }, 
+    {
+        "level": 134, 
+        "coinNeed": "2.6195e+06", 
+        "revenue": "1.7010e+07"
+    }, 
+    {
+        "level": 135, 
+        "coinNeed": "2.8123e+06", 
+        "revenue": "1.8144e+07"
+    }, 
+    {
+        "level": 136, 
+        "coinNeed": "3.0074e+06", 
+        "revenue": "1.9278e+07"
+    }, 
+    {
+        "level": 137, 
+        "coinNeed": "3.2047e+06", 
+        "revenue": "2.0412e+07"
+    }, 
+    {
+        "level": 138, 
+        "coinNeed": "3.4043e+06", 
+        "revenue": "2.1546e+07"
+    }, 
+    {
+        "level": 139, 
+        "coinNeed": "3.6061e+06", 
+        "revenue": "2.2680e+07"
+    }, 
+    {
+        "level": 140, 
+        "coinNeed": "3.5640e+06", 
+        "revenue": "2.2275e+07"
+    }, 
+    {
+        "level": 141, 
+        "coinNeed": "3.9123e+06", 
+        "revenue": "2.4300e+07"
+    }, 
+    {
+        "level": 142, 
+        "coinNeed": "4.2646e+06", 
+        "revenue": "2.6325e+07"
+    }, 
+    {
+        "level": 143, 
+        "coinNeed": "4.6210e+06", 
+        "revenue": "2.8350e+07"
+    }, 
+    {
+        "level": 144, 
+        "coinNeed": "4.9815e+06", 
+        "revenue": "3.0375e+07"
+    }, 
+    {
+        "level": 145, 
+        "coinNeed": "5.3460e+06", 
+        "revenue": "3.2400e+07"
+    }, 
+    {
+        "level": 146, 
+        "coinNeed": "5.7146e+06", 
+        "revenue": "3.4425e+07"
+    }, 
+    {
+        "level": 147, 
+        "coinNeed": "6.0872e+06", 
+        "revenue": "3.6450e+07"
+    }, 
+    {
+        "level": 148, 
+        "coinNeed": "6.4638e+06", 
+        "revenue": "3.8475e+07"
+    }, 
+    {
+        "level": 149, 
+        "coinNeed": "6.8445e+06", 
+        "revenue": "4.0500e+07"
+    }, 
+    {
+        "level": 150, 
+        "coinNeed": "9.4248e+06", 
+        "revenue": "5.5440e+07"
+    }, 
+    {
+        "level": 151, 
+        "coinNeed": "1.0342e+07", 
+        "revenue": "6.0480e+07"
+    }, 
+    {
+        "level": 152, 
+        "coinNeed": "1.1269e+07", 
+        "revenue": "6.5520e+07"
+    }, 
+    {
+        "level": 153, 
+        "coinNeed": "1.2207e+07", 
+        "revenue": "7.0560e+07"
+    }, 
+    {
+        "level": 154, 
+        "coinNeed": "1.3154e+07", 
+        "revenue": "7.5600e+07"
+    }, 
+    {
+        "level": 155, 
+        "coinNeed": "1.4112e+07", 
+        "revenue": "8.0640e+07"
+    }, 
+    {
+        "level": 156, 
+        "coinNeed": "1.5080e+07", 
+        "revenue": "8.5680e+07"
+    }, 
+    {
+        "level": 157, 
+        "coinNeed": "1.6057e+07", 
+        "revenue": "9.0720e+07"
+    }, 
+    {
+        "level": 158, 
+        "coinNeed": "1.7045e+07", 
+        "revenue": "9.5760e+07"
+    }, 
+    {
+        "level": 159, 
+        "coinNeed": "1.8043e+07", 
+        "revenue": "1.0080e+08"
+    }, 
+    {
+        "level": 160, 
+        "coinNeed": "1.8176e+07", 
+        "revenue": "1.0098e+08"
+    }, 
+    {
+        "level": 161, 
+        "coinNeed": "1.9939e+07", 
+        "revenue": "1.1016e+08"
+    }, 
+    {
+        "level": 162, 
+        "coinNeed": "2.1720e+07", 
+        "revenue": "1.1934e+08"
+    }, 
+    {
+        "level": 163, 
+        "coinNeed": "2.3519e+07", 
+        "revenue": "1.2852e+08"
+    }, 
+    {
+        "level": 164, 
+        "coinNeed": "2.5337e+07", 
+        "revenue": "1.3770e+08"
+    }, 
+    {
+        "level": 165, 
+        "coinNeed": "2.7173e+07", 
+        "revenue": "1.4688e+08"
+    }, 
+    {
+        "level": 166, 
+        "coinNeed": "2.9027e+07", 
+        "revenue": "1.5606e+08"
+    }, 
+    {
+        "level": 167, 
+        "coinNeed": "3.0900e+07", 
+        "revenue": "1.6524e+08"
+    }, 
+    {
+        "level": 168, 
+        "coinNeed": "3.2791e+07", 
+        "revenue": "1.7442e+08"
+    }, 
+    {
+        "level": 169, 
+        "coinNeed": "3.4700e+07", 
+        "revenue": "1.8360e+08"
+    }, 
+    {
+        "level": 170, 
+        "coinNeed": "3.0472e+07", 
+        "revenue": "1.6038e+08"
+    }, 
+    {
+        "level": 171, 
+        "coinNeed": "3.3417e+07", 
+        "revenue": "1.7496e+08"
+    }, 
+    {
+        "level": 172, 
+        "coinNeed": "3.6392e+07", 
+        "revenue": "1.8954e+08"
+    }, 
+    {
+        "level": 173, 
+        "coinNeed": "3.9395e+07", 
+        "revenue": "2.0412e+08"
+    }, 
+    {
+        "level": 174, 
+        "coinNeed": "4.2428e+07", 
+        "revenue": "2.1870e+08"
+    }, 
+    {
+        "level": 175, 
+        "coinNeed": "4.5490e+07", 
+        "revenue": "2.3328e+08"
+    }, 
+    {
+        "level": 176, 
+        "coinNeed": "4.8581e+07", 
+        "revenue": "2.4786e+08"
+    }, 
+    {
+        "level": 177, 
+        "coinNeed": "5.1701e+07", 
+        "revenue": "2.6244e+08"
+    }, 
+    {
+        "level": 178, 
+        "coinNeed": "5.4850e+07", 
+        "revenue": "2.7702e+08"
+    }, 
+    {
+        "level": 179, 
+        "coinNeed": "5.8028e+07", 
+        "revenue": "2.9160e+08"
+    }, 
+    {
+        "level": 180, 
+        "coinNeed": "7.5240e+07", 
+        "revenue": "3.7620e+08"
+    }, 
+    {
+        "level": 181, 
+        "coinNeed": "8.2490e+07", 
+        "revenue": "4.1040e+08"
+    }, 
+    {
+        "level": 182, 
+        "coinNeed": "8.9809e+07", 
+        "revenue": "4.4460e+08"
+    }, 
+    {
+        "level": 183, 
+        "coinNeed": "9.7196e+07", 
+        "revenue": "4.7880e+08"
+    }, 
+    {
+        "level": 184, 
+        "coinNeed": "1.0465e+08", 
+        "revenue": "5.1300e+08"
+    }, 
+    {
+        "level": 185, 
+        "coinNeed": "1.1218e+08", 
+        "revenue": "5.4720e+08"
+    }, 
+    {
+        "level": 186, 
+        "coinNeed": "1.1977e+08", 
+        "revenue": "5.8140e+08"
+    }, 
+    {
+        "level": 187, 
+        "coinNeed": "1.2743e+08", 
+        "revenue": "6.1560e+08"
+    }, 
+    {
+        "level": 188, 
+        "coinNeed": "1.3516e+08", 
+        "revenue": "6.4980e+08"
+    }, 
+    {
+        "level": 189, 
+        "coinNeed": "1.4296e+08", 
+        "revenue": "6.8400e+08"
+    }, 
+    {
+        "level": 190, 
+        "coinNeed": "1.6632e+08", 
+        "revenue": "7.9200e+08"
+    }, 
+    {
+        "level": 191, 
+        "coinNeed": "1.8230e+08", 
+        "revenue": "8.6400e+08"
+    }, 
+    {
+        "level": 192, 
+        "coinNeed": "1.9843e+08", 
+        "revenue": "9.3600e+08"
+    }, 
+    {
+        "level": 193, 
+        "coinNeed": "2.1470e+08", 
+        "revenue": "1.0080e+09"
+    }, 
+    {
+        "level": 194, 
+        "coinNeed": "2.3112e+08", 
+        "revenue": "1.0800e+09"
+    }, 
+    {
+        "level": 195, 
+        "coinNeed": "2.4768e+08", 
+        "revenue": "1.1520e+09"
+    }, 
+    {
+        "level": 196, 
+        "coinNeed": "2.6438e+08", 
+        "revenue": "1.2240e+09"
+    }, 
+    {
+        "level": 197, 
+        "coinNeed": "2.8123e+08", 
+        "revenue": "1.2960e+09"
+    }, 
+    {
+        "level": 198, 
+        "coinNeed": "2.9822e+08", 
+        "revenue": "1.3680e+09"
+    }, 
+    {
+        "level": 199, 
+        "coinNeed": "3.1536e+08", 
+        "revenue": "1.4400e+09"
+    }, 
+    {
+        "level": 200, 
+        "coinNeed": "3.2017e+08", 
+        "revenue": "1.4553e+09"
+    }, 
+    {
+        "level": 201, 
+        "coinNeed": "3.5086e+08", 
+        "revenue": "1.5876e+09"
+    }, 
+    {
+        "level": 202, 
+        "coinNeed": "3.8182e+08", 
+        "revenue": "1.7199e+09"
+    }, 
+    {
+        "level": 203, 
+        "coinNeed": "4.1304e+08", 
+        "revenue": "1.8522e+09"
+    }, 
+    {
+        "level": 204, 
+        "coinNeed": "4.4453e+08", 
+        "revenue": "1.9845e+09"
+    }, 
+    {
+        "level": 205, 
+        "coinNeed": "4.7628e+08", 
+        "revenue": "2.1168e+09"
+    }, 
+    {
+        "level": 206, 
+        "coinNeed": "5.0830e+08", 
+        "revenue": "2.2491e+09"
+    }, 
+    {
+        "level": 207, 
+        "coinNeed": "5.4058e+08", 
+        "revenue": "2.3814e+09"
+    }, 
+    {
+        "level": 208, 
+        "coinNeed": "5.7312e+08", 
+        "revenue": "2.5137e+09"
+    }, 
+    {
+        "level": 209, 
+        "coinNeed": "6.0593e+08", 
+        "revenue": "2.6460e+09"
+    }, 
+    {
+        "level": 210, 
+        "coinNeed": "5.0094e+08", 
+        "revenue": "2.1780e+09"
+    }, 
+    {
+        "level": 211, 
+        "coinNeed": "5.4886e+08", 
+        "revenue": "2.3760e+09"
+    }, 
+    {
+        "level": 212, 
+        "coinNeed": "5.9717e+08", 
+        "revenue": "2.5740e+09"
+    }, 
+    {
+        "level": 213, 
+        "coinNeed": "6.4588e+08", 
+        "revenue": "2.7720e+09"
+    }, 
+    {
+        "level": 214, 
+        "coinNeed": "6.9498e+08", 
+        "revenue": "2.9700e+09"
+    }, 
+    {
+        "level": 215, 
+        "coinNeed": "7.4448e+08", 
+        "revenue": "3.1680e+09"
+    }, 
+    {
+        "level": 216, 
+        "coinNeed": "7.9438e+08", 
+        "revenue": "3.3660e+09"
+    }, 
+    {
+        "level": 217, 
+        "coinNeed": "8.4467e+08", 
+        "revenue": "3.5640e+09"
+    }, 
+    {
+        "level": 218, 
+        "coinNeed": "8.9536e+08", 
+        "revenue": "3.7620e+09"
+    }, 
+    {
+        "level": 219, 
+        "coinNeed": "9.4644e+08", 
+        "revenue": "3.9600e+09"
+    }, 
+    {
+        "level": 220, 
+        "coinNeed": "5.4648e+09", 
+        "revenue": "2.2770e+10"
+    }, 
+    {
+        "level": 221, 
+        "coinNeed": "5.9864e+09", 
+        "revenue": "2.4840e+10"
+    }, 
+    {
+        "level": 222, 
+        "coinNeed": "6.5122e+09", 
+        "revenue": "2.6910e+10"
+    }, 
+    {
+        "level": 223, 
+        "coinNeed": "7.0421e+09", 
+        "revenue": "2.8980e+10"
+    }, 
+    {
+        "level": 224, 
+        "coinNeed": "7.5762e+09", 
+        "revenue": "3.1050e+10"
+    }, 
+    {
+        "level": 225, 
+        "coinNeed": "8.1144e+09", 
+        "revenue": "3.3120e+10"
+    }, 
+    {
+        "level": 226, 
+        "coinNeed": "8.6567e+09", 
+        "revenue": "3.5190e+10"
+    }, 
+    {
+        "level": 227, 
+        "coinNeed": "9.2032e+09", 
+        "revenue": "3.7260e+10"
+    }, 
+    {
+        "level": 228, 
+        "coinNeed": "9.7538e+09", 
+        "revenue": "3.9330e+10"
+    }, 
+    {
+        "level": 229, 
+        "coinNeed": "1.0309e+10", 
+        "revenue": "4.1400e+10"
+    }, 
+    {
+        "level": 230, 
+        "coinNeed": "5.9400e+10", 
+        "revenue": "2.3760e+11"
+    }, 
+    {
+        "level": 231, 
+        "coinNeed": "6.5059e+10", 
+        "revenue": "2.5920e+11"
+    }, 
+    {
+        "level": 232, 
+        "coinNeed": "7.0762e+10", 
+        "revenue": "2.8080e+11"
+    }, 
+    {
+        "level": 233, 
+        "coinNeed": "7.6507e+10", 
+        "revenue": "3.0240e+11"
+    }, 
+    {
+        "level": 234, 
+        "coinNeed": "8.2296e+10", 
+        "revenue": "3.2400e+11"
+    }, 
+    {
+        "level": 235, 
+        "coinNeed": "8.8128e+10", 
+        "revenue": "3.4560e+11"
+    }, 
+    {
+        "level": 236, 
+        "coinNeed": "9.4003e+10", 
+        "revenue": "3.6720e+11"
+    }, 
+    {
+        "level": 237, 
+        "coinNeed": "9.9922e+10", 
+        "revenue": "3.8880e+11"
+    }, 
+    {
+        "level": 238, 
+        "coinNeed": "1.0588e+11", 
+        "revenue": "4.1040e+11"
+    }, 
+    {
+        "level": 239, 
+        "coinNeed": "1.1189e+11", 
+        "revenue": "4.3200e+11"
+    }, 
+    {
+        "level": 240, 
+        "coinNeed": "6.4350e+11", 
+        "revenue": "2.4750e+12"
+    }, 
+    {
+        "level": 241, 
+        "coinNeed": "7.0470e+11", 
+        "revenue": "2.7000e+12"
+    }, 
+    {
+        "level": 242, 
+        "coinNeed": "7.6635e+11", 
+        "revenue": "2.9250e+12"
+    }, 
+    {
+        "level": 243, 
+        "coinNeed": "8.2845e+11", 
+        "revenue": "3.1500e+12"
+    }, 
+    {
+        "level": 244, 
+        "coinNeed": "8.9100e+11", 
+        "revenue": "3.3750e+12"
+    }, 
+    {
+        "level": 245, 
+        "coinNeed": "9.5400e+11", 
+        "revenue": "3.6000e+12"
+    }, 
+    {
+        "level": 246, 
+        "coinNeed": "1.0174e+12", 
+        "revenue": "3.8250e+12"
+    }, 
+    {
+        "level": 247, 
+        "coinNeed": "1.0814e+12", 
+        "revenue": "4.0500e+12"
+    }, 
+    {
+        "level": 248, 
+        "coinNeed": "1.1457e+12", 
+        "revenue": "4.2750e+12"
+    }, 
+    {
+        "level": 249, 
+        "coinNeed": "1.2105e+12", 
+        "revenue": "4.5000e+12"
+    }, 
+    {
+        "level": 250, 
+        "coinNeed": "6.9498e+12", 
+        "revenue": "2.5740e+13"
+    }, 
+    {
+        "level": 251, 
+        "coinNeed": "7.6097e+12", 
+        "revenue": "2.8080e+13"
+    }, 
+    {
+        "level": 252, 
+        "coinNeed": "8.2742e+12", 
+        "revenue": "3.0420e+13"
+    }, 
+    {
+        "level": 253, 
+        "coinNeed": "8.9435e+12", 
+        "revenue": "3.2760e+13"
+    }, 
+    {
+        "level": 254, 
+        "coinNeed": "9.6174e+12", 
+        "revenue": "3.5100e+13"
+    }, 
+    {
+        "level": 255, 
+        "coinNeed": "1.0296e+13", 
+        "revenue": "3.7440e+13"
+    }, 
+    {
+        "level": 256, 
+        "coinNeed": "1.0979e+13", 
+        "revenue": "3.9780e+13"
+    }, 
+    {
+        "level": 257, 
+        "coinNeed": "1.1667e+13", 
+        "revenue": "4.2120e+13"
+    }, 
+    {
+        "level": 258, 
+        "coinNeed": "1.2360e+13", 
+        "revenue": "4.4460e+13"
+    }, 
+    {
+        "level": 259, 
+        "coinNeed": "1.3057e+13", 
+        "revenue": "4.6800e+13"
+    }, 
+    {
+        "level": 260, 
+        "coinNeed": "7.4844e+13", 
+        "revenue": "2.6730e+14"
+    }, 
+    {
+        "level": 261, 
+        "coinNeed": "8.1940e+13", 
+        "revenue": "2.9160e+14"
+    }, 
+    {
+        "level": 262, 
+        "coinNeed": "8.9084e+13", 
+        "revenue": "3.1590e+14"
+    }, 
+    {
+        "level": 263, 
+        "coinNeed": "9.6277e+13", 
+        "revenue": "3.4020e+14"
+    }, 
+    {
+        "level": 264, 
+        "coinNeed": "1.0352e+14", 
+        "revenue": "3.6450e+14"
+    }, 
+    {
+        "level": 265, 
+        "coinNeed": "1.1081e+14", 
+        "revenue": "3.8880e+14"
+    }, 
+    {
+        "level": 266, 
+        "coinNeed": "1.1815e+14", 
+        "revenue": "4.1310e+14"
+    }, 
+    {
+        "level": 267, 
+        "coinNeed": "1.2553e+14", 
+        "revenue": "4.3740e+14"
+    }, 
+    {
+        "level": 268, 
+        "coinNeed": "1.3297e+14", 
+        "revenue": "4.6170e+14"
+    }, 
+    {
+        "level": 269, 
+        "coinNeed": "1.4045e+14", 
+        "revenue": "4.8600e+14"
+    }, 
+    {
+        "level": 270, 
+        "coinNeed": "8.0388e+14", 
+        "revenue": "2.7720e+15"
+    }, 
+    {
+        "level": 271, 
+        "coinNeed": "8.7998e+14", 
+        "revenue": "3.0240e+15"
+    }, 
+    {
+        "level": 272, 
+        "coinNeed": "9.5659e+14", 
+        "revenue": "3.2760e+15"
+    }, 
+    {
+        "level": 273, 
+        "coinNeed": "1.0337e+15", 
+        "revenue": "3.5280e+15"
+    }, 
+    {
+        "level": 274, 
+        "coinNeed": "1.1113e+15", 
+        "revenue": "3.7800e+15"
+    }, 
+    {
+        "level": 275, 
+        "coinNeed": "1.1894e+15", 
+        "revenue": "4.0320e+15"
+    }, 
+    {
+        "level": 276, 
+        "coinNeed": "1.2681e+15", 
+        "revenue": "4.2840e+15"
+    }, 
+    {
+        "level": 277, 
+        "coinNeed": "1.3472e+15", 
+        "revenue": "4.5360e+15"
+    }, 
+    {
+        "level": 278, 
+        "coinNeed": "1.4268e+15", 
+        "revenue": "4.7880e+15"
+    }, 
+    {
+        "level": 279, 
+        "coinNeed": "1.5070e+15", 
+        "revenue": "5.0400e+15"
+    }, 
+    {
+        "level": 280, 
+        "coinNeed": "8.6130e+15", 
+        "revenue": "2.8710e+16"
+    }, 
+    {
+        "level": 281, 
+        "coinNeed": "9.4273e+15", 
+        "revenue": "3.1320e+16"
+    }, 
+    {
+        "level": 282, 
+        "coinNeed": "1.0247e+16", 
+        "revenue": "3.3930e+16"
+    }, 
+    {
+        "level": 283, 
+        "coinNeed": "1.1072e+16", 
+        "revenue": "3.6540e+16"
+    }, 
+    {
+        "level": 284, 
+        "coinNeed": "1.1902e+16", 
+        "revenue": "3.9150e+16"
+    }, 
+    {
+        "level": 285, 
+        "coinNeed": "1.2737e+16", 
+        "revenue": "4.1760e+16"
+    }, 
+    {
+        "level": 286, 
+        "coinNeed": "1.3577e+16", 
+        "revenue": "4.4370e+16"
+    }, 
+    {
+        "level": 287, 
+        "coinNeed": "1.4423e+16", 
+        "revenue": "4.6980e+16"
+    }, 
+    {
+        "level": 288, 
+        "coinNeed": "1.5274e+16", 
+        "revenue": "4.9590e+16"
+    }, 
+    {
+        "level": 289, 
+        "coinNeed": "1.6130e+16", 
+        "revenue": "5.2200e+16"
+    }, 
+    {
+        "level": 290, 
+        "coinNeed": "8.6955e+16", 
+        "revenue": "2.8050e+17"
+    }, 
+    {
+        "level": 291, 
+        "coinNeed": "9.5166e+16", 
+        "revenue": "3.0600e+17"
+    }, 
+    {
+        "level": 292, 
+        "coinNeed": "1.0343e+17", 
+        "revenue": "3.3150e+17"
+    }, 
+    {
+        "level": 293, 
+        "coinNeed": "1.1174e+17", 
+        "revenue": "3.5700e+17"
+    }, 
+    {
+        "level": 294, 
+        "coinNeed": "1.2010e+17", 
+        "revenue": "3.8250e+17"
+    }, 
+    {
+        "level": 295, 
+        "coinNeed": "1.2852e+17", 
+        "revenue": "4.0800e+17"
+    }, 
+    {
+        "level": 296, 
+        "coinNeed": "1.3699e+17", 
+        "revenue": "4.3350e+17"
+    }, 
+    {
+        "level": 297, 
+        "coinNeed": "1.4550e+17", 
+        "revenue": "4.5900e+17"
+    }, 
+    {
+        "level": 298, 
+        "coinNeed": "1.5407e+17", 
+        "revenue": "4.8450e+17"
+    }, 
+    {
+        "level": 299, 
+        "coinNeed": "1.6269e+17", 
+        "revenue": "5.1000e+17"
+    }, 
+    {
+        "level": 300, 
+        "coinNeed": "9.2752e+17", 
+        "revenue": "2.8985e+18"
+    }, 
+    {
+        "level": 301, 
+        "coinNeed": "1.0150e+18", 
+        "revenue": "3.1620e+18"
+    }, 
+    {
+        "level": 302, 
+        "coinNeed": "1.1030e+18", 
+        "revenue": "3.4255e+18"
+    }, 
+    {
+        "level": 303, 
+        "coinNeed": "1.1916e+18", 
+        "revenue": "3.6890e+18"
+    }, 
+    {
+        "level": 304, 
+        "coinNeed": "1.2806e+18", 
+        "revenue": "3.9525e+18"
+    }, 
+    {
+        "level": 305, 
+        "coinNeed": "1.3702e+18", 
+        "revenue": "4.2160e+18"
+    }, 
+    {
+        "level": 306, 
+        "coinNeed": "1.4603e+18", 
+        "revenue": "4.4795e+18"
+    }, 
+    {
+        "level": 307, 
+        "coinNeed": "1.5510e+18", 
+        "revenue": "4.7430e+18"
+    }, 
+    {
+        "level": 308, 
+        "coinNeed": "1.6421e+18", 
+        "revenue": "5.0065e+18"
+    }, 
+    {
+        "level": 309, 
+        "coinNeed": "1.7338e+18", 
+        "revenue": "5.2700e+18"
+    }, 
+    {
+        "level": 310, 
+        "coinNeed": "9.8736e+18", 
+        "revenue": "2.9920e+19"
+    }, 
+    {
+        "level": 311, 
+        "coinNeed": "1.0804e+19", 
+        "revenue": "3.2640e+19"
+    }, 
+    {
+        "level": 312, 
+        "coinNeed": "1.1740e+19", 
+        "revenue": "3.5360e+19"
+    }, 
+    {
+        "level": 313, 
+        "coinNeed": "1.2681e+19", 
+        "revenue": "3.8080e+19"
+    }, 
+    {
+        "level": 314, 
+        "coinNeed": "1.3627e+19", 
+        "revenue": "4.0800e+19"
+    }, 
+    {
+        "level": 315, 
+        "coinNeed": "1.4579e+19", 
+        "revenue": "4.3520e+19"
+    }, 
+    {
+        "level": 316, 
+        "coinNeed": "1.5537e+19", 
+        "revenue": "4.6240e+19"
+    }, 
+    {
+        "level": 317, 
+        "coinNeed": "1.6500e+19", 
+        "revenue": "4.8960e+19"
+    }, 
+    {
+        "level": 318, 
+        "coinNeed": "1.7468e+19", 
+        "revenue": "5.1680e+19"
+    }, 
+    {
+        "level": 319, 
+        "coinNeed": "1.8442e+19", 
+        "revenue": "5.4400e+19"
+    }, 
+    {
+        "level": 320, 
+        "coinNeed": "1.0491e+20", 
+        "revenue": "3.0855e+20"
+    }, 
+    {
+        "level": 321, 
+        "coinNeed": "1.1478e+20", 
+        "revenue": "3.3660e+20"
+    }, 
+    {
+        "level": 322, 
+        "coinNeed": "1.2471e+20", 
+        "revenue": "3.6465e+20"
+    }, 
+    {
+        "level": 323, 
+        "coinNeed": "1.3470e+20", 
+        "revenue": "3.9270e+20"
+    }, 
+    {
+        "level": 324, 
+        "coinNeed": "1.4474e+20", 
+        "revenue": "4.2075e+20"
+    }, 
+    {
+        "level": 325, 
+        "coinNeed": "1.5484e+20", 
+        "revenue": "4.4880e+20"
+    }, 
+    {
+        "level": 326, 
+        "coinNeed": "1.6499e+20", 
+        "revenue": "4.7685e+20"
+    }, 
+    {
+        "level": 327, 
+        "coinNeed": "1.7520e+20", 
+        "revenue": "5.0490e+20"
+    }, 
+    {
+        "level": 328, 
+        "coinNeed": "1.8547e+20", 
+        "revenue": "5.3295e+20"
+    }, 
+    {
+        "level": 329, 
+        "coinNeed": "1.9579e+20", 
+        "revenue": "5.6100e+20"
+    }, 
+    {
+        "level": 330, 
+        "coinNeed": "1.1126e+21", 
+        "revenue": "3.1790e+21"
+    }, 
+    {
+        "level": 331, 
+        "coinNeed": "1.2173e+21", 
+        "revenue": "3.4680e+21"
+    }, 
+    {
+        "level": 332, 
+        "coinNeed": "1.3225e+21", 
+        "revenue": "3.7570e+21"
+    }, 
+    {
+        "level": 333, 
+        "coinNeed": "1.4282e+21", 
+        "revenue": "4.0460e+21"
+    }, 
+    {
+        "level": 334, 
+        "coinNeed": "1.5346e+21", 
+        "revenue": "4.3350e+21"
+    }, 
+    {
+        "level": 335, 
+        "coinNeed": "1.6415e+21", 
+        "revenue": "4.6240e+21"
+    }, 
+    {
+        "level": 336, 
+        "coinNeed": "1.7490e+21", 
+        "revenue": "4.9130e+21"
+    }, 
+    {
+        "level": 337, 
+        "coinNeed": "1.8571e+21", 
+        "revenue": "5.2020e+21"
+    }, 
+    {
+        "level": 338, 
+        "coinNeed": "1.9658e+21", 
+        "revenue": "5.4910e+21"
+    }, 
+    {
+        "level": 339, 
+        "coinNeed": "2.0750e+21", 
+        "revenue": "5.7800e+21"
+    }, 
+    {
+        "level": 340, 
+        "coinNeed": "1.1781e+22", 
+        "revenue": "3.2725e+22"
+    }, 
+    {
+        "level": 341, 
+        "coinNeed": "1.2888e+22", 
+        "revenue": "3.5700e+22"
+    }, 
+    {
+        "level": 342, 
+        "coinNeed": "1.4000e+22", 
+        "revenue": "3.8675e+22"
+    }, 
+    {
+        "level": 343, 
+        "coinNeed": "1.5119e+22", 
+        "revenue": "4.1650e+22"
+    }, 
+    {
+        "level": 344, 
+        "coinNeed": "1.6244e+22", 
+        "revenue": "4.4625e+22"
+    }, 
+    {
+        "level": 345, 
+        "coinNeed": "1.7374e+22", 
+        "revenue": "4.7600e+22"
+    }, 
+    {
+        "level": 346, 
+        "coinNeed": "1.8510e+22", 
+        "revenue": "5.0575e+22"
+    }, 
+    {
+        "level": 347, 
+        "coinNeed": "1.9653e+22", 
+        "revenue": "5.3550e+22"
+    }, 
+    {
+        "level": 348, 
+        "coinNeed": "2.0801e+22", 
+        "revenue": "5.6525e+22"
+    }, 
+    {
+        "level": 349, 
+        "coinNeed": "2.1955e+22", 
+        "revenue": "5.9500e+22"
+    }, 
+    {
+        "level": 350, 
+        "coinNeed": "1.2454e+23", 
+        "revenue": "3.3660e+23"
+    }, 
+    {
+        "level": 351, 
+        "coinNeed": "1.3623e+23", 
+        "revenue": "3.6720e+23"
+    }, 
+    {
+        "level": 352, 
+        "coinNeed": "1.4798e+23", 
+        "revenue": "3.9780e+23"
+    }, 
+    {
+        "level": 353, 
+        "coinNeed": "1.5979e+23", 
+        "revenue": "4.2840e+23"
+    }, 
+    {
+        "level": 354, 
+        "coinNeed": "1.7167e+23", 
+        "revenue": "4.5900e+23"
+    }, 
+    {
+        "level": 355, 
+        "coinNeed": "1.8360e+23", 
+        "revenue": "4.8960e+23"
+    }, 
+    {
+        "level": 356, 
+        "coinNeed": "1.9560e+23", 
+        "revenue": "5.2020e+23"
+    }, 
+    {
+        "level": 357, 
+        "coinNeed": "2.0765e+23", 
+        "revenue": "5.5080e+23"
+    }, 
+    {
+        "level": 358, 
+        "coinNeed": "2.1977e+23", 
+        "revenue": "5.8140e+23"
+    }, 
+    {
+        "level": 359, 
+        "coinNeed": "2.3195e+23", 
+        "revenue": "6.1200e+23"
+    }, 
+    {
+        "level": 360, 
+        "coinNeed": "1.3146e+24", 
+        "revenue": "3.4595e+24"
+    }, 
+    {
+        "level": 361, 
+        "coinNeed": "1.4379e+24", 
+        "revenue": "3.7740e+24"
+    }, 
+    {
+        "level": 362, 
+        "coinNeed": "1.5618e+24", 
+        "revenue": "4.0885e+24"
+    }, 
+    {
+        "level": 363, 
+        "coinNeed": "1.6864e+24", 
+        "revenue": "4.4030e+24"
+    }, 
+    {
+        "level": 364, 
+        "coinNeed": "1.8115e+24", 
+        "revenue": "4.7175e+24"
+    }, 
+    {
+        "level": 365, 
+        "coinNeed": "1.9373e+24", 
+        "revenue": "5.0320e+24"
+    }, 
+    {
+        "level": 366, 
+        "coinNeed": "2.0637e+24", 
+        "revenue": "5.3465e+24"
+    }, 
+    {
+        "level": 367, 
+        "coinNeed": "2.1908e+24", 
+        "revenue": "5.6610e+24"
+    }, 
+    {
+        "level": 368, 
+        "coinNeed": "2.3185e+24", 
+        "revenue": "5.9755e+24"
+    }, 
+    {
+        "level": 369, 
+        "coinNeed": "2.4468e+24", 
+        "revenue": "6.2900e+24"
+    }, 
+    {
+        "level": 370, 
+        "coinNeed": "1.3857e+25", 
+        "revenue": "3.5530e+25"
+    }, 
+    {
+        "level": 371, 
+        "coinNeed": "1.5155e+25", 
+        "revenue": "3.8760e+25"
+    }, 
+    {
+        "level": 372, 
+        "coinNeed": "1.6460e+25", 
+        "revenue": "4.1990e+25"
+    }, 
+    {
+        "level": 373, 
+        "coinNeed": "1.7771e+25", 
+        "revenue": "4.5220e+25"
+    }, 
+    {
+        "level": 374, 
+        "coinNeed": "1.9089e+25", 
+        "revenue": "4.8450e+25"
+    }, 
+    {
+        "level": 375, 
+        "coinNeed": "2.0414e+25", 
+        "revenue": "5.1680e+25"
+    }, 
+    {
+        "level": 376, 
+        "coinNeed": "2.1744e+25", 
+        "revenue": "5.4910e+25"
+    }, 
+    {
+        "level": 377, 
+        "coinNeed": "2.3082e+25", 
+        "revenue": "5.8140e+25"
+    }, 
+    {
+        "level": 378, 
+        "coinNeed": "2.4425e+25", 
+        "revenue": "6.1370e+25"
+    }, 
+    {
+        "level": 379, 
+        "coinNeed": "2.5775e+25", 
+        "revenue": "6.4600e+25"
+    }, 
+    {
+        "level": 380, 
+        "coinNeed": "1.4586e+26", 
+        "revenue": "3.6465e+26"
+    }, 
+    {
+        "level": 381, 
+        "coinNeed": "1.5952e+26", 
+        "revenue": "3.9780e+26"
+    }, 
+    {
+        "level": 382, 
+        "coinNeed": "1.7324e+26", 
+        "revenue": "4.3095e+26"
+    }, 
+    {
+        "level": 383, 
+        "coinNeed": "1.8703e+26", 
+        "revenue": "4.6410e+26"
+    }, 
+    {
+        "level": 384, 
+        "coinNeed": "2.0089e+26", 
+        "revenue": "4.9725e+26"
+    }, 
+    {
+        "level": 385, 
+        "coinNeed": "2.1481e+26", 
+        "revenue": "5.3040e+26"
+    }, 
+    {
+        "level": 386, 
+        "coinNeed": "2.2880e+26", 
+        "revenue": "5.6355e+26"
+    }, 
+    {
+        "level": 387, 
+        "coinNeed": "2.4286e+26", 
+        "revenue": "5.9670e+26"
+    }, 
+    {
+        "level": 388, 
+        "coinNeed": "2.5698e+26", 
+        "revenue": "6.2985e+26"
+    }, 
+    {
+        "level": 389, 
+        "coinNeed": "2.7117e+26", 
+        "revenue": "6.6300e+26"
+    }, 
+    {
+        "level": 390, 
+        "coinNeed": "1.4432e+27", 
+        "revenue": "3.5200e+27"
+    }, 
+    {
+        "level": 391, 
+        "coinNeed": "1.5782e+27", 
+        "revenue": "3.8400e+27"
+    }, 
+    {
+        "level": 392, 
+        "coinNeed": "1.7139e+27", 
+        "revenue": "4.1600e+27"
+    }, 
+    {
+        "level": 393, 
+        "coinNeed": "1.8502e+27", 
+        "revenue": "4.4800e+27"
+    }, 
+    {
+        "level": 394, 
+        "coinNeed": "1.9872e+27", 
+        "revenue": "4.8000e+27"
+    }, 
+    {
+        "level": 395, 
+        "coinNeed": "2.1248e+27", 
+        "revenue": "5.1200e+27"
+    }, 
+    {
+        "level": 396, 
+        "coinNeed": "2.2630e+27", 
+        "revenue": "5.4400e+27"
+    }, 
+    {
+        "level": 397, 
+        "coinNeed": "2.4019e+27", 
+        "revenue": "5.7600e+27"
+    }, 
+    {
+        "level": 398, 
+        "coinNeed": "2.5414e+27", 
+        "revenue": "6.0800e+27"
+    }, 
+    {
+        "level": 399, 
+        "coinNeed": "2.6816e+27", 
+        "revenue": "6.4000e+27"
+    }, 
+    {
+        "level": 400, 
+        "coinNeed": "1.5154e+28", 
+        "revenue": "3.6080e+28"
+    }, 
+    {
+        "level": 401, 
+        "coinNeed": "1.6571e+28", 
+        "revenue": "3.9360e+28"
+    }, 
+    {
+        "level": 402, 
+        "coinNeed": "1.7994e+28", 
+        "revenue": "4.2640e+28"
+    }, 
+    {
+        "level": 403, 
+        "coinNeed": "1.9424e+28", 
+        "revenue": "4.5920e+28"
+    }, 
+    {
+        "level": 404, 
+        "coinNeed": "2.0861e+28", 
+        "revenue": "4.9200e+28"
+    }, 
+    {
+        "level": 405, 
+        "coinNeed": "2.2304e+28", 
+        "revenue": "5.2480e+28"
+    }, 
+    {
+        "level": 406, 
+        "coinNeed": "2.3754e+28", 
+        "revenue": "5.5760e+28"
+    }, 
+    {
+        "level": 407, 
+        "coinNeed": "2.5210e+28", 
+        "revenue": "5.9040e+28"
+    }, 
+    {
+        "level": 408, 
+        "coinNeed": "2.6673e+28", 
+        "revenue": "6.2320e+28"
+    }, 
+    {
+        "level": 409, 
+        "coinNeed": "2.8142e+28", 
+        "revenue": "6.5600e+28"
+    }, 
+    {
+        "level": 410, 
+        "coinNeed": "1.5893e+29", 
+        "revenue": "3.6960e+29"
+    }, 
+    {
+        "level": 411, 
+        "coinNeed": "1.7378e+29", 
+        "revenue": "4.0320e+29"
+    }, 
+    {
+        "level": 412, 
+        "coinNeed": "1.8870e+29", 
+        "revenue": "4.3680e+29"
+    }, 
+    {
+        "level": 413, 
+        "coinNeed": "2.0368e+29", 
+        "revenue": "4.7040e+29"
+    }, 
+    {
+        "level": 414, 
+        "coinNeed": "2.1874e+29", 
+        "revenue": "5.0400e+29"
+    }, 
+    {
+        "level": 415, 
+        "coinNeed": "2.3386e+29", 
+        "revenue": "5.3760e+29"
+    }, 
+    {
+        "level": 416, 
+        "coinNeed": "2.4904e+29", 
+        "revenue": "5.7120e+29"
+    }, 
+    {
+        "level": 417, 
+        "coinNeed": "2.6430e+29", 
+        "revenue": "6.0480e+29"
+    }, 
+    {
+        "level": 418, 
+        "coinNeed": "2.7962e+29", 
+        "revenue": "6.3840e+29"
+    }, 
+    {
+        "level": 419, 
+        "coinNeed": "2.9501e+29", 
+        "revenue": "6.7200e+29"
+    }, 
+    {
+        "level": 420, 
+        "coinNeed": "1.6650e+30", 
+        "revenue": "3.7840e+30"
+    }, 
+    {
+        "level": 421, 
+        "coinNeed": "1.8205e+30", 
+        "revenue": "4.1280e+30"
+    }, 
+    {
+        "level": 422, 
+        "coinNeed": "1.9766e+30", 
+        "revenue": "4.4720e+30"
+    }, 
+    {
+        "level": 423, 
+        "coinNeed": "2.1335e+30", 
+        "revenue": "4.8160e+30"
+    }, 
+    {
+        "level": 424, 
+        "coinNeed": "2.2910e+30", 
+        "revenue": "5.1600e+30"
+    }, 
+    {
+        "level": 425, 
+        "coinNeed": "2.4493e+30", 
+        "revenue": "5.5040e+30"
+    }, 
+    {
+        "level": 426, 
+        "coinNeed": "2.6082e+30", 
+        "revenue": "5.8480e+30"
+    }, 
+    {
+        "level": 427, 
+        "coinNeed": "2.7678e+30", 
+        "revenue": "6.1920e+30"
+    }, 
+    {
+        "level": 428, 
+        "coinNeed": "2.9281e+30", 
+        "revenue": "6.5360e+30"
+    }, 
+    {
+        "level": 429, 
+        "coinNeed": "3.0891e+30", 
+        "revenue": "6.8800e+30"
+    }, 
+    {
+        "level": 430, 
+        "coinNeed": "1.7424e+31", 
+        "revenue": "3.8720e+31"
+    }, 
+    {
+        "level": 431, 
+        "coinNeed": "1.9050e+31", 
+        "revenue": "4.2240e+31"
+    }, 
+    {
+        "level": 432, 
+        "coinNeed": "2.0683e+31", 
+        "revenue": "4.5760e+31"
+    }, 
+    {
+        "level": 433, 
+        "coinNeed": "2.2324e+31", 
+        "revenue": "4.9280e+31"
+    }, 
+    {
+        "level": 434, 
+        "coinNeed": "2.3971e+31", 
+        "revenue": "5.2800e+31"
+    }, 
+    {
+        "level": 435, 
+        "coinNeed": "2.5626e+31", 
+        "revenue": "5.6320e+31"
+    }, 
+    {
+        "level": 436, 
+        "coinNeed": "2.7287e+31", 
+        "revenue": "5.9840e+31"
+    }, 
+    {
+        "level": 437, 
+        "coinNeed": "2.8955e+31", 
+        "revenue": "6.3360e+31"
+    }, 
+    {
+        "level": 438, 
+        "coinNeed": "3.0631e+31", 
+        "revenue": "6.6880e+31"
+    }, 
+    {
+        "level": 439, 
+        "coinNeed": "3.2314e+31", 
+        "revenue": "7.0400e+31"
+    }, 
+    {
+        "level": 440, 
+        "coinNeed": "1.8216e+32", 
+        "revenue": "3.9600e+32"
+    }, 
+    {
+        "level": 441, 
+        "coinNeed": "1.9915e+32", 
+        "revenue": "4.3200e+32"
+    }, 
+    {
+        "level": 442, 
+        "coinNeed": "2.1622e+32", 
+        "revenue": "4.6800e+32"
+    }, 
+    {
+        "level": 443, 
+        "coinNeed": "2.3335e+32", 
+        "revenue": "5.0400e+32"
+    }, 
+    {
+        "level": 444, 
+        "coinNeed": "2.5056e+32", 
+        "revenue": "5.4000e+32"
+    }, 
+    {
+        "level": 445, 
+        "coinNeed": "2.6784e+32", 
+        "revenue": "5.7600e+32"
+    }, 
+    {
+        "level": 446, 
+        "coinNeed": "2.8519e+32", 
+        "revenue": "6.1200e+32"
+    }, 
+    {
+        "level": 447, 
+        "coinNeed": "3.0262e+32", 
+        "revenue": "6.4800e+32"
+    }, 
+    {
+        "level": 448, 
+        "coinNeed": "3.2011e+32", 
+        "revenue": "6.8400e+32"
+    }, 
+    {
+        "level": 449, 
+        "coinNeed": "3.3768e+32", 
+        "revenue": "7.2000e+32"
+    }, 
+    {
+        "level": 450, 
+        "coinNeed": "1.9026e+33", 
+        "revenue": "4.0480e+33"
+    }, 
+    {
+        "level": 451, 
+        "coinNeed": "2.0799e+33", 
+        "revenue": "4.4160e+33"
+    }, 
+    {
+        "level": 452, 
+        "coinNeed": "2.2581e+33", 
+        "revenue": "4.7840e+33"
+    }, 
+    {
+        "level": 453, 
+        "coinNeed": "2.4369e+33", 
+        "revenue": "5.1520e+33"
+    }, 
+    {
+        "level": 454, 
+        "coinNeed": "2.6165e+33", 
+        "revenue": "5.5200e+33"
+    }, 
+    {
+        "level": 455, 
+        "coinNeed": "2.7968e+33", 
+        "revenue": "5.8880e+33"
+    }, 
+    {
+        "level": 456, 
+        "coinNeed": "2.9779e+33", 
+        "revenue": "6.2560e+33"
+    }, 
+    {
+        "level": 457, 
+        "coinNeed": "3.1597e+33", 
+        "revenue": "6.6240e+33"
+    }, 
+    {
+        "level": 458, 
+        "coinNeed": "3.3422e+33", 
+        "revenue": "6.9920e+33"
+    }, 
+    {
+        "level": 459, 
+        "coinNeed": "3.5254e+33", 
+        "revenue": "7.3600e+33"
+    }, 
+    {
+        "level": 460, 
+        "coinNeed": "1.9853e+34", 
+        "revenue": "4.1360e+34"
+    }, 
+    {
+        "level": 461, 
+        "coinNeed": "2.1703e+34", 
+        "revenue": "4.5120e+34"
+    }, 
+    {
+        "level": 462, 
+        "coinNeed": "2.3560e+34", 
+        "revenue": "4.8880e+34"
+    }, 
+    {
+        "level": 463, 
+        "coinNeed": "2.5425e+34", 
+        "revenue": "5.2640e+34"
+    }, 
+    {
+        "level": 464, 
+        "coinNeed": "2.7298e+34", 
+        "revenue": "5.6400e+34"
+    }, 
+    {
+        "level": 465, 
+        "coinNeed": "2.9178e+34", 
+        "revenue": "6.0160e+34"
+    }, 
+    {
+        "level": 466, 
+        "coinNeed": "3.1065e+34", 
+        "revenue": "6.3920e+34"
+    }, 
+    {
+        "level": 467, 
+        "coinNeed": "3.2960e+34", 
+        "revenue": "6.7680e+34"
+    }, 
+    {
+        "level": 468, 
+        "coinNeed": "3.4863e+34", 
+        "revenue": "7.1440e+34"
+    }, 
+    {
+        "level": 469, 
+        "coinNeed": "3.6773e+34", 
+        "revenue": "7.5200e+34"
+    }, 
+    {
+        "level": 470, 
+        "coinNeed": "2.0698e+35", 
+        "revenue": "4.2240e+35"
+    }, 
+    {
+        "level": 471, 
+        "coinNeed": "2.2625e+35", 
+        "revenue": "4.6080e+35"
+    }, 
+    {
+        "level": 472, 
+        "coinNeed": "2.4561e+35", 
+        "revenue": "4.9920e+35"
+    }, 
+    {
+        "level": 473, 
+        "coinNeed": "2.6504e+35", 
+        "revenue": "5.3760e+35"
+    }, 
+    {
+        "level": 474, 
+        "coinNeed": "2.8454e+35", 
+        "revenue": "5.7600e+35"
+    }, 
+    {
+        "level": 475, 
+        "coinNeed": "3.0413e+35", 
+        "revenue": "6.1440e+35"
+    }, 
+    {
+        "level": 476, 
+        "coinNeed": "3.2379e+35", 
+        "revenue": "6.5280e+35"
+    }, 
+    {
+        "level": 477, 
+        "coinNeed": "3.4353e+35", 
+        "revenue": "6.9120e+35"
+    }, 
+    {
+        "level": 478, 
+        "coinNeed": "3.6334e+35", 
+        "revenue": "7.2960e+35"
+    }, 
+    {
+        "level": 479, 
+        "coinNeed": "3.8323e+35", 
+        "revenue": "7.6800e+35"
+    }, 
+    {
+        "level": 480, 
+        "coinNeed": "2.1560e+36", 
+        "revenue": "4.3120e+36"
+    }, 
+    {
+        "level": 481, 
+        "coinNeed": "2.3567e+36", 
+        "revenue": "4.7040e+36"
+    }, 
+    {
+        "level": 482, 
+        "coinNeed": "2.5582e+36", 
+        "revenue": "5.0960e+36"
+    }, 
+    {
+        "level": 483, 
+        "coinNeed": "2.7605e+36", 
+        "revenue": "5.4880e+36"
+    }, 
+    {
+        "level": 484, 
+        "coinNeed": "2.9635e+36", 
+        "revenue": "5.8800e+36"
+    }, 
+    {
+        "level": 485, 
+        "coinNeed": "3.1674e+36", 
+        "revenue": "6.2720e+36"
+    }, 
+    {
+        "level": 486, 
+        "coinNeed": "3.3720e+36", 
+        "revenue": "6.6640e+36"
+    }, 
+    {
+        "level": 487, 
+        "coinNeed": "3.5774e+36", 
+        "revenue": "7.0560e+36"
+    }, 
+    {
+        "level": 488, 
+        "coinNeed": "3.7836e+36", 
+        "revenue": "7.4480e+36"
+    }, 
+    {
+        "level": 489, 
+        "coinNeed": "3.9906e+36", 
+        "revenue": "7.8400e+36"
+    }, 
+    {
+        "level": 490, 
+        "coinNeed": "2.2440e+37", 
+        "revenue": "4.4000e+37"
+    }, 
+    {
+        "level": 491, 
+        "coinNeed": "2.4528e+37", 
+        "revenue": "4.8000e+37"
+    }, 
+    {
+        "level": 492, 
+        "coinNeed": "2.6624e+37", 
+        "revenue": "5.2000e+37"
+    }, 
+    {
+        "level": 493, 
+        "coinNeed": "2.8728e+37", 
+        "revenue": "5.6000e+37"
+    }, 
+    {
+        "level": 494, 
+        "coinNeed": "3.0840e+37", 
+        "revenue": "6.0000e+37"
+    }, 
+    {
+        "level": 495, 
+        "coinNeed": "3.2960e+37", 
+        "revenue": "6.4000e+37"
+    }, 
+    {
+        "level": 496, 
+        "coinNeed": "3.5088e+37", 
+        "revenue": "6.8000e+37"
+    }, 
+    {
+        "level": 497, 
+        "coinNeed": "3.7224e+37", 
+        "revenue": "7.2000e+37"
+    }, 
+    {
+        "level": 498, 
+        "coinNeed": "3.9368e+37", 
+        "revenue": "7.6000e+37"
+    }, 
+    {
+        "level": 499, 
+        "coinNeed": "4.1520e+37", 
+        "revenue": "8.0000e+37"
+    }, 
+    {
+        "level": 500, 
+        "coinNeed": "2.3338e+38", 
+        "revenue": "4.4880e+38"
+    }, 
+    {
+        "level": 501, 
+        "coinNeed": "2.5508e+38", 
+        "revenue": "4.8960e+38"
+    }, 
+    {
+        "level": 502, 
+        "coinNeed": "2.7687e+38", 
+        "revenue": "5.3040e+38"
+    }, 
+    {
+        "level": 503, 
+        "coinNeed": "2.9874e+38", 
+        "revenue": "5.7120e+38"
+    }, 
+    {
+        "level": 504, 
+        "coinNeed": "3.2069e+38", 
+        "revenue": "6.1200e+38"
+    }, 
+    {
+        "level": 505, 
+        "coinNeed": "3.4272e+38", 
+        "revenue": "6.5280e+38"
+    }, 
+    {
+        "level": 506, 
+        "coinNeed": "3.6483e+38", 
+        "revenue": "6.9360e+38"
+    }, 
+    {
+        "level": 507, 
+        "coinNeed": "3.8703e+38", 
+        "revenue": "7.3440e+38"
+    }, 
+    {
+        "level": 508, 
+        "coinNeed": "4.0931e+38", 
+        "revenue": "7.7520e+38"
+    }, 
+    {
+        "level": 509, 
+        "coinNeed": "4.3166e+38", 
+        "revenue": "8.1600e+38"
+    }, 
+    {
+        "level": 510, 
+        "coinNeed": "2.4253e+39", 
+        "revenue": "4.5760e+39"
+    }, 
+    {
+        "level": 511, 
+        "coinNeed": "2.6507e+39", 
+        "revenue": "4.9920e+39"
+    }, 
+    {
+        "level": 512, 
+        "coinNeed": "2.8771e+39", 
+        "revenue": "5.4080e+39"
+    }, 
+    {
+        "level": 513, 
+        "coinNeed": "3.1042e+39", 
+        "revenue": "5.8240e+39"
+    }, 
+    {
+        "level": 514, 
+        "coinNeed": "3.3322e+39", 
+        "revenue": "6.2400e+39"
+    }, 
+    {
+        "level": 515, 
+        "coinNeed": "3.5610e+39", 
+        "revenue": "6.6560e+39"
+    }, 
+    {
+        "level": 516, 
+        "coinNeed": "3.7906e+39", 
+        "revenue": "7.0720e+39"
+    }, 
+    {
+        "level": 517, 
+        "coinNeed": "4.0211e+39", 
+        "revenue": "7.4880e+39"
+    }, 
+    {
+        "level": 518, 
+        "coinNeed": "4.2523e+39", 
+        "revenue": "7.9040e+39"
+    }, 
+    {
+        "level": 519, 
+        "coinNeed": "4.4845e+39", 
+        "revenue": "8.3200e+39"
+    }, 
+    {
+        "level": 520, 
+        "coinNeed": "2.5186e+40", 
+        "revenue": "4.6640e+40"
+    }, 
+    {
+        "level": 521, 
+        "coinNeed": "2.7526e+40", 
+        "revenue": "5.0880e+40"
+    }, 
+    {
+        "level": 522, 
+        "coinNeed": "2.9875e+40", 
+        "revenue": "5.5120e+40"
+    }, 
+    {
+        "level": 523, 
+        "coinNeed": "3.2232e+40", 
+        "revenue": "5.9360e+40"
+    }, 
+    {
+        "level": 524, 
+        "coinNeed": "3.4598e+40", 
+        "revenue": "6.3600e+40"
+    }, 
+    {
+        "level": 525, 
+        "coinNeed": "3.6973e+40", 
+        "revenue": "6.7840e+40"
+    }, 
+    {
+        "level": 526, 
+        "coinNeed": "3.9356e+40", 
+        "revenue": "7.2080e+40"
+    }, 
+    {
+        "level": 527, 
+        "coinNeed": "4.1747e+40", 
+        "revenue": "7.6320e+40"
+    }, 
+    {
+        "level": 528, 
+        "coinNeed": "4.4147e+40", 
+        "revenue": "8.0560e+40"
+    }, 
+    {
+        "level": 529, 
+        "coinNeed": "4.6555e+40", 
+        "revenue": "8.4800e+40"
+    }, 
+    {
+        "level": 530, 
+        "coinNeed": "2.6136e+41", 
+        "revenue": "4.7520e+41"
+    }, 
+    {
+        "level": 531, 
+        "coinNeed": "2.8564e+41", 
+        "revenue": "5.1840e+41"
+    }, 
+    {
+        "level": 532, 
+        "coinNeed": "3.1000e+41", 
+        "revenue": "5.6160e+41"
+    }, 
+    {
+        "level": 533, 
+        "coinNeed": "3.3445e+41", 
+        "revenue": "6.0480e+41"
+    }, 
+    {
+        "level": 534, 
+        "coinNeed": "3.5899e+41", 
+        "revenue": "6.4800e+41"
+    }, 
+    {
+        "level": 535, 
+        "coinNeed": "3.8362e+41", 
+        "revenue": "6.9120e+41"
+    }, 
+    {
+        "level": 536, 
+        "coinNeed": "4.0833e+41", 
+        "revenue": "7.3440e+41"
+    }, 
+    {
+        "level": 537, 
+        "coinNeed": "4.3312e+41", 
+        "revenue": "7.7760e+41"
+    }, 
+    {
+        "level": 538, 
+        "coinNeed": "4.5801e+41", 
+        "revenue": "8.2080e+41"
+    }, 
+    {
+        "level": 539, 
+        "coinNeed": "4.8298e+41", 
+        "revenue": "8.6400e+41"
+    }, 
+    {
+        "level": 540, 
+        "coinNeed": "2.7104e+42", 
+        "revenue": "4.8400e+42"
+    }, 
+    {
+        "level": 541, 
+        "coinNeed": "2.9621e+42", 
+        "revenue": "5.2800e+42"
+    }, 
+    {
+        "level": 542, 
+        "coinNeed": "3.2146e+42", 
+        "revenue": "5.7200e+42"
+    }, 
+    {
+        "level": 543, 
+        "coinNeed": "3.4681e+42", 
+        "revenue": "6.1600e+42"
+    }, 
+    {
+        "level": 544, 
+        "coinNeed": "3.7224e+42", 
+        "revenue": "6.6000e+42"
+    }, 
+    {
+        "level": 545, 
+        "coinNeed": "3.9776e+42", 
+        "revenue": "7.0400e+42"
+    }, 
+    {
+        "level": 546, 
+        "coinNeed": "4.2337e+42", 
+        "revenue": "7.4800e+42"
+    }, 
+    {
+        "level": 547, 
+        "coinNeed": "4.4906e+42", 
+        "revenue": "7.9200e+42"
+    }, 
+    {
+        "level": 548, 
+        "coinNeed": "4.7485e+42", 
+        "revenue": "8.3600e+42"
+    }, 
+    {
+        "level": 549, 
+        "coinNeed": "5.0072e+42", 
+        "revenue": "8.8000e+42"
+    }, 
+    {
+        "level": 550, 
+        "coinNeed": "2.8090e+43", 
+        "revenue": "4.9280e+43"
+    }, 
+    {
+        "level": 551, 
+        "coinNeed": "3.0697e+43", 
+        "revenue": "5.3760e+43"
+    }, 
+    {
+        "level": 552, 
+        "coinNeed": "3.3313e+43", 
+        "revenue": "5.8240e+43"
+    }, 
+    {
+        "level": 553, 
+        "coinNeed": "3.5939e+43", 
+        "revenue": "6.2720e+43"
+    }, 
+    {
+        "level": 554, 
+        "coinNeed": "3.8573e+43", 
+        "revenue": "6.7200e+43"
+    }, 
+    {
+        "level": 555, 
+        "coinNeed": "4.1216e+43", 
+        "revenue": "7.1680e+43"
+    }, 
+    {
+        "level": 556, 
+        "coinNeed": "4.3868e+43", 
+        "revenue": "7.6160e+43"
+    }, 
+    {
+        "level": 557, 
+        "coinNeed": "4.6529e+43", 
+        "revenue": "8.0640e+43"
+    }, 
+    {
+        "level": 558, 
+        "coinNeed": "4.9199e+43", 
+        "revenue": "8.5120e+43"
+    }, 
+    {
+        "level": 559, 
+        "coinNeed": "5.1878e+43", 
+        "revenue": "8.9600e+43"
+    }, 
+    {
+        "level": 560, 
+        "coinNeed": "2.9093e+44", 
+        "revenue": "5.0160e+44"
+    }, 
+    {
+        "level": 561, 
+        "coinNeed": "3.1792e+44", 
+        "revenue": "5.4720e+44"
+    }, 
+    {
+        "level": 562, 
+        "coinNeed": "3.4501e+44", 
+        "revenue": "5.9280e+44"
+    }, 
+    {
+        "level": 563, 
+        "coinNeed": "3.7219e+44", 
+        "revenue": "6.3840e+44"
+    }, 
+    {
+        "level": 564, 
+        "coinNeed": "3.9946e+44", 
+        "revenue": "6.8400e+44"
+    }, 
+    {
+        "level": 565, 
+        "coinNeed": "4.2682e+44", 
+        "revenue": "7.2960e+44"
+    }, 
+    {
+        "level": 566, 
+        "coinNeed": "4.5427e+44", 
+        "revenue": "7.7520e+44"
+    }, 
+    {
+        "level": 567, 
+        "coinNeed": "4.8181e+44", 
+        "revenue": "8.2080e+44"
+    }, 
+    {
+        "level": 568, 
+        "coinNeed": "5.0944e+44", 
+        "revenue": "8.6640e+44"
+    }, 
+    {
+        "level": 569, 
+        "coinNeed": "5.3717e+44", 
+        "revenue": "9.1200e+44"
+    }, 
+    {
+        "level": 570, 
+        "coinNeed": "3.0114e+45", 
+        "revenue": "5.1040e+45"
+    }, 
+    {
+        "level": 571, 
+        "coinNeed": "3.2907e+45", 
+        "revenue": "5.5680e+45"
+    }, 
+    {
+        "level": 572, 
+        "coinNeed": "3.5709e+45", 
+        "revenue": "6.0320e+45"
+    }, 
+    {
+        "level": 573, 
+        "coinNeed": "3.8521e+45", 
+        "revenue": "6.4960e+45"
+    }, 
+    {
+        "level": 574, 
+        "coinNeed": "4.1342e+45", 
+        "revenue": "6.9600e+45"
+    }, 
+    {
+        "level": 575, 
+        "coinNeed": "4.4173e+45", 
+        "revenue": "7.4240e+45"
+    }, 
+    {
+        "level": 576, 
+        "coinNeed": "4.7013e+45", 
+        "revenue": "7.8880e+45"
+    }, 
+    {
+        "level": 577, 
+        "coinNeed": "4.9861e+45", 
+        "revenue": "8.3520e+45"
+    }, 
+    {
+        "level": 578, 
+        "coinNeed": "5.2720e+45", 
+        "revenue": "8.8160e+45"
+    }, 
+    {
+        "level": 579, 
+        "coinNeed": "5.5587e+45", 
+        "revenue": "9.2800e+45"
+    }, 
+    {
+        "level": 580, 
+        "coinNeed": "3.1152e+46", 
+        "revenue": "5.1920e+46"
+    }, 
+    {
+        "level": 581, 
+        "coinNeed": "3.4041e+46", 
+        "revenue": "5.6640e+46"
+    }, 
+    {
+        "level": 582, 
+        "coinNeed": "3.6939e+46", 
+        "revenue": "6.1360e+46"
+    }, 
+    {
+        "level": 583, 
+        "coinNeed": "3.9846e+46", 
+        "revenue": "6.6080e+46"
+    }, 
+    {
+        "level": 584, 
+        "coinNeed": "4.2763e+46", 
+        "revenue": "7.0800e+46"
+    }, 
+    {
+        "level": 585, 
+        "coinNeed": "4.5690e+46", 
+        "revenue": "7.5520e+46"
+    }, 
+    {
+        "level": 586, 
+        "coinNeed": "4.8625e+46", 
+        "revenue": "8.0240e+46"
+    }, 
+    {
+        "level": 587, 
+        "coinNeed": "5.1571e+46", 
+        "revenue": "8.4960e+46"
+    }, 
+    {
+        "level": 588, 
+        "coinNeed": "5.4525e+46", 
+        "revenue": "8.9680e+46"
+    }, 
+    {
+        "level": 589, 
+        "coinNeed": "5.7490e+46", 
+        "revenue": "9.4400e+46"
+    }, 
+    {
+        "level": 590, 
+        "coinNeed": "3.0195e+47", 
+        "revenue": "4.9500e+47"
+    }, 
+    {
+        "level": 591, 
+        "coinNeed": "3.2994e+47", 
+        "revenue": "5.4000e+47"
+    }, 
+    {
+        "level": 592, 
+        "coinNeed": "3.5802e+47", 
+        "revenue": "5.8500e+47"
+    }, 
+    {
+        "level": 593, 
+        "coinNeed": "3.8619e+47", 
+        "revenue": "6.3000e+47"
+    }, 
+    {
+        "level": 594, 
+        "coinNeed": "4.1445e+47", 
+        "revenue": "6.7500e+47"
+    }, 
+    {
+        "level": 595, 
+        "coinNeed": "4.4280e+47", 
+        "revenue": "7.2000e+47"
+    }, 
+    {
+        "level": 596, 
+        "coinNeed": "4.7124e+47", 
+        "revenue": "7.6500e+47"
+    }, 
+    {
+        "level": 597, 
+        "coinNeed": "4.9977e+47", 
+        "revenue": "8.1000e+47"
+    }, 
+    {
+        "level": 598, 
+        "coinNeed": "5.2839e+47", 
+        "revenue": "8.5500e+47"
+    }, 
+    {
+        "level": 599, 
+        "coinNeed": "5.5710e+47", 
+        "revenue": "9.0000e+47"
+    }, 
+    {
+        "level": 600, 
+        "coinNeed": "3.1201e+48", 
+        "revenue": "5.0325e+48"
+    }, 
+    {
+        "level": 601, 
+        "coinNeed": "3.4093e+48", 
+        "revenue": "5.4900e+48"
+    }, 
+    {
+        "level": 602, 
+        "coinNeed": "3.6994e+48", 
+        "revenue": "5.9475e+48"
+    }, 
+    {
+        "level": 603, 
+        "coinNeed": "3.9903e+48", 
+        "revenue": "6.4050e+48"
+    }, 
+    {
+        "level": 604, 
+        "coinNeed": "4.2822e+48", 
+        "revenue": "6.8625e+48"
+    }, 
+    {
+        "level": 605, 
+        "coinNeed": "4.5750e+48", 
+        "revenue": "7.3200e+48"
+    }, 
+    {
+        "level": 606, 
+        "coinNeed": "4.8687e+48", 
+        "revenue": "7.7775e+48"
+    }, 
+    {
+        "level": 607, 
+        "coinNeed": "5.1633e+48", 
+        "revenue": "8.2350e+48"
+    }, 
+    {
+        "level": 608, 
+        "coinNeed": "5.4589e+48", 
+        "revenue": "8.6925e+48"
+    }, 
+    {
+        "level": 609, 
+        "coinNeed": "5.7553e+48", 
+        "revenue": "9.1500e+48"
+    }, 
+    {
+        "level": 610, 
+        "coinNeed": "3.2224e+49", 
+        "revenue": "5.1150e+49"
+    }, 
+    {
+        "level": 611, 
+        "coinNeed": "3.5210e+49", 
+        "revenue": "5.5800e+49"
+    }, 
+    {
+        "level": 612, 
+        "coinNeed": "3.8204e+49", 
+        "revenue": "6.0450e+49"
+    }, 
+    {
+        "level": 613, 
+        "coinNeed": "4.1208e+49", 
+        "revenue": "6.5100e+49"
+    }, 
+    {
+        "level": 614, 
+        "coinNeed": "4.4221e+49", 
+        "revenue": "6.9750e+49"
+    }, 
+    {
+        "level": 615, 
+        "coinNeed": "4.7244e+49", 
+        "revenue": "7.4400e+49"
+    }, 
+    {
+        "level": 616, 
+        "coinNeed": "5.0276e+49", 
+        "revenue": "7.9050e+49"
+    }, 
+    {
+        "level": 617, 
+        "coinNeed": "5.3317e+49", 
+        "revenue": "8.3700e+49"
+    }, 
+    {
+        "level": 618, 
+        "coinNeed": "5.6367e+49", 
+        "revenue": "8.8350e+49"
+    }, 
+    {
+        "level": 619, 
+        "coinNeed": "5.9427e+49", 
+        "revenue": "9.3000e+49"
+    }, 
+    {
+        "level": 620, 
+        "coinNeed": "3.3264e+50", 
+        "revenue": "5.1975e+50"
+    }, 
+    {
+        "level": 621, 
+        "coinNeed": "3.6345e+50", 
+        "revenue": "5.6700e+50"
+    }, 
+    {
+        "level": 622, 
+        "coinNeed": "3.9435e+50", 
+        "revenue": "6.1425e+50"
+    }, 
+    {
+        "level": 623, 
+        "coinNeed": "4.2534e+50", 
+        "revenue": "6.6150e+50"
+    }, 
+    {
+        "level": 624, 
+        "coinNeed": "4.5644e+50", 
+        "revenue": "7.0875e+50"
+    }, 
+    {
+        "level": 625, 
+        "coinNeed": "4.8762e+50", 
+        "revenue": "7.5600e+50"
+    }, 
+    {
+        "level": 626, 
+        "coinNeed": "5.1890e+50", 
+        "revenue": "8.0325e+50"
+    }, 
+    {
+        "level": 627, 
+        "coinNeed": "5.5027e+50", 
+        "revenue": "8.5050e+50"
+    }, 
+    {
+        "level": 628, 
+        "coinNeed": "5.8174e+50", 
+        "revenue": "8.9775e+50"
+    }, 
+    {
+        "level": 629, 
+        "coinNeed": "6.1331e+50", 
+        "revenue": "9.4500e+50"
+    }, 
+    {
+        "level": 630, 
+        "coinNeed": "3.4320e+51", 
+        "revenue": "5.2800e+51"
+    }, 
+    {
+        "level": 631, 
+        "coinNeed": "3.7498e+51", 
+        "revenue": "5.7600e+51"
+    }, 
+    {
+        "level": 632, 
+        "coinNeed": "4.0685e+51", 
+        "revenue": "6.2400e+51"
+    }, 
+    {
+        "level": 633, 
+        "coinNeed": "4.3882e+51", 
+        "revenue": "6.7200e+51"
+    }, 
+    {
+        "level": 634, 
+        "coinNeed": "4.7088e+51", 
+        "revenue": "7.2000e+51"
+    }, 
+    {
+        "level": 635, 
+        "coinNeed": "5.0304e+51", 
+        "revenue": "7.6800e+51"
+    }, 
+    {
+        "level": 636, 
+        "coinNeed": "5.3530e+51", 
+        "revenue": "8.1600e+51"
+    }, 
+    {
+        "level": 637, 
+        "coinNeed": "5.6765e+51", 
+        "revenue": "8.6400e+51"
+    }, 
+    {
+        "level": 638, 
+        "coinNeed": "6.0010e+51", 
+        "revenue": "9.1200e+51"
+    }, 
+    {
+        "level": 639, 
+        "coinNeed": "6.3264e+51", 
+        "revenue": "9.6000e+51"
+    }, 
+    {
+        "level": 640, 
+        "coinNeed": "3.5393e+52", 
+        "revenue": "5.3625e+52"
+    }, 
+    {
+        "level": 641, 
+        "coinNeed": "3.8669e+52", 
+        "revenue": "5.8500e+52"
+    }, 
+    {
+        "level": 642, 
+        "coinNeed": "4.1954e+52", 
+        "revenue": "6.3375e+52"
+    }, 
+    {
+        "level": 643, 
+        "coinNeed": "4.5250e+52", 
+        "revenue": "6.8250e+52"
+    }, 
+    {
+        "level": 644, 
+        "coinNeed": "4.8555e+52", 
+        "revenue": "7.3125e+52"
+    }, 
+    {
+        "level": 645, 
+        "coinNeed": "5.1870e+52", 
+        "revenue": "7.8000e+52"
+    }, 
+    {
+        "level": 646, 
+        "coinNeed": "5.5195e+52", 
+        "revenue": "8.2875e+52"
+    }, 
+    {
+        "level": 647, 
+        "coinNeed": "5.8529e+52", 
+        "revenue": "8.7750e+52"
+    }, 
+    {
+        "level": 648, 
+        "coinNeed": "6.1873e+52", 
+        "revenue": "9.2625e+52"
+    }, 
+    {
+        "level": 649, 
+        "coinNeed": "6.5228e+52", 
+        "revenue": "9.7500e+52"
+    }, 
+    {
+        "level": 650, 
+        "coinNeed": "3.6481e+53", 
+        "revenue": "5.4450e+53"
+    }, 
+    {
+        "level": 651, 
+        "coinNeed": "3.9857e+53", 
+        "revenue": "5.9400e+53"
+    }, 
+    {
+        "level": 652, 
+        "coinNeed": "4.3243e+53", 
+        "revenue": "6.4350e+53"
+    }, 
+    {
+        "level": 653, 
+        "coinNeed": "4.6639e+53", 
+        "revenue": "6.9300e+53"
+    }, 
+    {
+        "level": 654, 
+        "coinNeed": "5.0045e+53", 
+        "revenue": "7.4250e+53"
+    }, 
+    {
+        "level": 655, 
+        "coinNeed": "5.3460e+53", 
+        "revenue": "7.9200e+53"
+    }, 
+    {
+        "level": 656, 
+        "coinNeed": "5.6885e+53", 
+        "revenue": "8.4150e+53"
+    }, 
+    {
+        "level": 657, 
+        "coinNeed": "6.0321e+53", 
+        "revenue": "8.9100e+53"
+    }, 
+    {
+        "level": 658, 
+        "coinNeed": "6.3766e+53", 
+        "revenue": "9.4050e+53"
+    }, 
+    {
+        "level": 659, 
+        "coinNeed": "6.7221e+53", 
+        "revenue": "9.9000e+53"
+    }, 
+    {
+        "level": 660, 
+        "coinNeed": "3.7587e+54", 
+        "revenue": "5.5275e+54"
+    }, 
+    {
+        "level": 661, 
+        "coinNeed": "4.1064e+54", 
+        "revenue": "6.0300e+54"
+    }, 
+    {
+        "level": 662, 
+        "coinNeed": "4.4552e+54", 
+        "revenue": "6.5325e+54"
+    }, 
+    {
+        "level": 663, 
+        "coinNeed": "4.8049e+54", 
+        "revenue": "7.0350e+54"
+    }, 
+    {
+        "level": 664, 
+        "coinNeed": "5.1556e+54", 
+        "revenue": "7.5375e+54"
+    }, 
+    {
+        "level": 665, 
+        "coinNeed": "5.5074e+54", 
+        "revenue": "8.0400e+54"
+    }, 
+    {
+        "level": 666, 
+        "coinNeed": "5.8602e+54", 
+        "revenue": "8.5425e+54"
+    }, 
+    {
+        "level": 667, 
+        "coinNeed": "6.2139e+54", 
+        "revenue": "9.0450e+54"
+    }, 
+    {
+        "level": 668, 
+        "coinNeed": "6.5687e+54", 
+        "revenue": "9.5475e+54"
+    }, 
+    {
+        "level": 669, 
+        "coinNeed": "6.9245e+54", 
+        "revenue": "1.0050e+55"
+    }, 
+    {
+        "level": 670, 
+        "coinNeed": "3.8709e+55", 
+        "revenue": "5.6100e+55"
+    }, 
+    {
+        "level": 671, 
+        "coinNeed": "4.2289e+55", 
+        "revenue": "6.1200e+55"
+    }, 
+    {
+        "level": 672, 
+        "coinNeed": "4.5880e+55", 
+        "revenue": "6.6300e+55"
+    }, 
+    {
+        "level": 673, 
+        "coinNeed": "4.9480e+55", 
+        "revenue": "7.1400e+55"
+    }, 
+    {
+        "level": 674, 
+        "coinNeed": "5.3091e+55", 
+        "revenue": "7.6500e+55"
+    }, 
+    {
+        "level": 675, 
+        "coinNeed": "5.6712e+55", 
+        "revenue": "8.1600e+55"
+    }, 
+    {
+        "level": 676, 
+        "coinNeed": "6.0343e+55", 
+        "revenue": "8.6700e+55"
+    }, 
+    {
+        "level": 677, 
+        "coinNeed": "6.3985e+55", 
+        "revenue": "9.1800e+55"
+    }, 
+    {
+        "level": 678, 
+        "coinNeed": "6.7636e+55", 
+        "revenue": "9.6900e+55"
+    }, 
+    {
+        "level": 679, 
+        "coinNeed": "7.1298e+55", 
+        "revenue": "1.0200e+56"
+    }, 
+    {
+        "level": 680, 
+        "coinNeed": "3.9848e+56", 
+        "revenue": "5.6925e+56"
+    }, 
+    {
+        "level": 681, 
+        "coinNeed": "4.3532e+56", 
+        "revenue": "6.2100e+56"
+    }, 
+    {
+        "level": 682, 
+        "coinNeed": "4.7227e+56", 
+        "revenue": "6.7275e+56"
+    }, 
+    {
+        "level": 683, 
+        "coinNeed": "5.0932e+56", 
+        "revenue": "7.2450e+56"
+    }, 
+    {
+        "level": 684, 
+        "coinNeed": "5.4648e+56", 
+        "revenue": "7.7625e+56"
+    }, 
+    {
+        "level": 685, 
+        "coinNeed": "5.8374e+56", 
+        "revenue": "8.2800e+56"
+    }, 
+    {
+        "level": 686, 
+        "coinNeed": "6.2110e+56", 
+        "revenue": "8.7975e+56"
+    }, 
+    {
+        "level": 687, 
+        "coinNeed": "6.5857e+56", 
+        "revenue": "9.3150e+56"
+    }, 
+    {
+        "level": 688, 
+        "coinNeed": "6.9614e+56", 
+        "revenue": "9.8325e+56"
+    }, 
+    {
+        "level": 689, 
+        "coinNeed": "7.3381e+56", 
+        "revenue": "1.0350e+57"
+    }, 
+    {
+        "level": 690, 
+        "coinNeed": "4.1002e+57", 
+        "revenue": "5.7750e+57"
+    }, 
+    {
+        "level": 691, 
+        "coinNeed": "4.4793e+57", 
+        "revenue": "6.3000e+57"
+    }, 
+    {
+        "level": 692, 
+        "coinNeed": "4.8594e+57", 
+        "revenue": "6.8250e+57"
+    }, 
+    {
+        "level": 693, 
+        "coinNeed": "5.2405e+57", 
+        "revenue": "7.3500e+57"
+    }, 
+    {
+        "level": 694, 
+        "coinNeed": "5.6228e+57", 
+        "revenue": "7.8750e+57"
+    }, 
+    {
+        "level": 695, 
+        "coinNeed": "6.0060e+57", 
+        "revenue": "8.4000e+57"
+    }, 
+    {
+        "level": 696, 
+        "coinNeed": "6.3903e+57", 
+        "revenue": "8.9250e+57"
+    }, 
+    {
+        "level": 697, 
+        "coinNeed": "6.7757e+57", 
+        "revenue": "9.4500e+57"
+    }, 
+    {
+        "level": 698, 
+        "coinNeed": "7.1621e+57", 
+        "revenue": "9.9750e+57"
+    }, 
+    {
+        "level": 699, 
+        "coinNeed": "7.5495e+57", 
+        "revenue": "1.0500e+58"
+    }, 
+    {
+        "level": 700, 
+        "coinNeed": "4.2174e+58", 
+        "revenue": "5.8575e+58"
+    }, 
+    {
+        "level": 701, 
+        "coinNeed": "4.6072e+58", 
+        "revenue": "6.3900e+58"
+    }, 
+    {
+        "level": 702, 
+        "coinNeed": "4.9981e+58", 
+        "revenue": "6.9225e+58"
+    }, 
+    {
+        "level": 703, 
+        "coinNeed": "5.3900e+58", 
+        "revenue": "7.4550e+58"
+    }, 
+    {
+        "level": 704, 
+        "coinNeed": "5.7830e+58", 
+        "revenue": "7.9875e+58"
+    }, 
+    {
+        "level": 705, 
+        "coinNeed": "6.1770e+58", 
+        "revenue": "8.5200e+58"
+    }, 
+    {
+        "level": 706, 
+        "coinNeed": "6.5721e+58", 
+        "revenue": "9.0525e+58"
+    }, 
+    {
+        "level": 707, 
+        "coinNeed": "6.9683e+58", 
+        "revenue": "9.5850e+58"
+    }, 
+    {
+        "level": 708, 
+        "coinNeed": "7.3655e+58", 
+        "revenue": "1.0118e+59"
+    }, 
+    {
+        "level": 709, 
+        "coinNeed": "7.7639e+58", 
+        "revenue": "1.0650e+59"
+    }, 
+    {
+        "level": 710, 
+        "coinNeed": "4.3362e+59", 
+        "revenue": "5.9400e+59"
+    }, 
+    {
+        "level": 711, 
+        "coinNeed": "4.7369e+59", 
+        "revenue": "6.4800e+59"
+    }, 
+    {
+        "level": 712, 
+        "coinNeed": "5.1386e+59", 
+        "revenue": "7.0200e+59"
+    }, 
+    {
+        "level": 713, 
+        "coinNeed": "5.5415e+59", 
+        "revenue": "7.5600e+59"
+    }, 
+    {
+        "level": 714, 
+        "coinNeed": "5.9454e+59", 
+        "revenue": "8.1000e+59"
+    }, 
+    {
+        "level": 715, 
+        "coinNeed": "6.3504e+59", 
+        "revenue": "8.6400e+59"
+    }, 
+    {
+        "level": 716, 
+        "coinNeed": "6.7565e+59", 
+        "revenue": "9.1800e+59"
+    }, 
+    {
+        "level": 717, 
+        "coinNeed": "7.1636e+59", 
+        "revenue": "9.7200e+59"
+    }, 
+    {
+        "level": 718, 
+        "coinNeed": "7.5719e+59", 
+        "revenue": "1.0260e+60"
+    }, 
+    {
+        "level": 719, 
+        "coinNeed": "7.9812e+59", 
+        "revenue": "1.0800e+60"
+    }, 
+    {
+        "level": 720, 
+        "coinNeed": "4.4567e+60", 
+        "revenue": "6.0225e+60"
+    }, 
+    {
+        "level": 721, 
+        "coinNeed": "4.8684e+60", 
+        "revenue": "6.5700e+60"
+    }, 
+    {
+        "level": 722, 
+        "coinNeed": "5.2812e+60", 
+        "revenue": "7.1175e+60"
+    }, 
+    {
+        "level": 723, 
+        "coinNeed": "5.6951e+60", 
+        "revenue": "7.6650e+60"
+    }, 
+    {
+        "level": 724, 
+        "coinNeed": "6.1101e+60", 
+        "revenue": "8.2125e+60"
+    }, 
+    {
+        "level": 725, 
+        "coinNeed": "6.5262e+60", 
+        "revenue": "8.7600e+60"
+    }, 
+    {
+        "level": 726, 
+        "coinNeed": "6.9434e+60", 
+        "revenue": "9.3075e+60"
+    }, 
+    {
+        "level": 727, 
+        "coinNeed": "7.3617e+60", 
+        "revenue": "9.8550e+60"
+    }, 
+    {
+        "level": 728, 
+        "coinNeed": "7.7811e+60", 
+        "revenue": "1.0403e+61"
+    }, 
+    {
+        "level": 729, 
+        "coinNeed": "8.2016e+60", 
+        "revenue": "1.0950e+61"
+    }, 
+    {
+        "level": 730, 
+        "coinNeed": "4.5787e+61", 
+        "revenue": "6.1050e+61"
+    }, 
+    {
+        "level": 731, 
+        "coinNeed": "5.0017e+61", 
+        "revenue": "6.6600e+61"
+    }, 
+    {
+        "level": 732, 
+        "coinNeed": "5.4257e+61", 
+        "revenue": "7.2150e+61"
+    }, 
+    {
+        "level": 733, 
+        "coinNeed": "5.8508e+61", 
+        "revenue": "7.7700e+61"
+    }, 
+    {
+        "level": 734, 
+        "coinNeed": "6.2770e+61", 
+        "revenue": "8.3250e+61"
+    }, 
+    {
+        "level": 735, 
+        "coinNeed": "6.7044e+61", 
+        "revenue": "8.8800e+61"
+    }, 
+    {
+        "level": 736, 
+        "coinNeed": "7.1329e+61", 
+        "revenue": "9.4350e+61"
+    }, 
+    {
+        "level": 737, 
+        "coinNeed": "7.5624e+61", 
+        "revenue": "9.9900e+61"
+    }, 
+    {
+        "level": 738, 
+        "coinNeed": "7.9931e+61", 
+        "revenue": "1.0545e+62"
+    }, 
+    {
+        "level": 739, 
+        "coinNeed": "8.4249e+61", 
+        "revenue": "1.1100e+62"
+    }, 
+    {
+        "level": 740, 
+        "coinNeed": "4.7025e+62", 
+        "revenue": "6.1875e+62"
+    }, 
+    {
+        "level": 741, 
+        "coinNeed": "5.1368e+62", 
+        "revenue": "6.7500e+62"
+    }, 
+    {
+        "level": 742, 
+        "coinNeed": "5.5721e+62", 
+        "revenue": "7.3125e+62"
+    }, 
+    {
+        "level": 743, 
+        "coinNeed": "6.0086e+62", 
+        "revenue": "7.8750e+62"
+    }, 
+    {
+        "level": 744, 
+        "coinNeed": "6.4463e+62", 
+        "revenue": "8.4375e+62"
+    }, 
+    {
+        "level": 745, 
+        "coinNeed": "6.8850e+62", 
+        "revenue": "9.0000e+62"
+    }, 
+    {
+        "level": 746, 
+        "coinNeed": "7.3249e+62", 
+        "revenue": "9.5625e+62"
+    }, 
+    {
+        "level": 747, 
+        "coinNeed": "7.7659e+62", 
+        "revenue": "1.0125e+63"
+    }, 
+    {
+        "level": 748, 
+        "coinNeed": "8.2080e+62", 
+        "revenue": "1.0688e+63"
+    }, 
+    {
+        "level": 749, 
+        "coinNeed": "8.6512e+62", 
+        "revenue": "1.1250e+63"
+    }, 
+    {
+        "level": 750, 
+        "coinNeed": "4.8279e+63", 
+        "revenue": "6.2700e+63"
+    }, 
+    {
+        "level": 751, 
+        "coinNeed": "5.2736e+63", 
+        "revenue": "6.8400e+63"
+    }, 
+    {
+        "level": 752, 
+        "coinNeed": "5.7205e+63", 
+        "revenue": "7.4100e+63"
+    }, 
+    {
+        "level": 753, 
+        "coinNeed": "6.1685e+63", 
+        "revenue": "7.9800e+63"
+    }, 
+    {
+        "level": 754, 
+        "coinNeed": "6.6177e+63", 
+        "revenue": "8.5500e+63"
+    }, 
+    {
+        "level": 755, 
+        "coinNeed": "7.0680e+63", 
+        "revenue": "9.1200e+63"
+    }, 
+    {
+        "level": 756, 
+        "coinNeed": "7.5194e+63", 
+        "revenue": "9.6900e+63"
+    }, 
+    {
+        "level": 757, 
+        "coinNeed": "7.9720e+63", 
+        "revenue": "1.0260e+64"
+    }, 
+    {
+        "level": 758, 
+        "coinNeed": "8.4257e+63", 
+        "revenue": "1.0830e+64"
+    }, 
+    {
+        "level": 759, 
+        "coinNeed": "8.8806e+63", 
+        "revenue": "1.1400e+64"
+    }, 
+    {
+        "level": 760, 
+        "coinNeed": "4.9550e+64", 
+        "revenue": "6.3525e+64"
+    }, 
+    {
+        "level": 761, 
+        "coinNeed": "5.4123e+64", 
+        "revenue": "6.9300e+64"
+    }, 
+    {
+        "level": 762, 
+        "coinNeed": "5.8709e+64", 
+        "revenue": "7.5075e+64"
+    }, 
+    {
+        "level": 763, 
+        "coinNeed": "6.3306e+64", 
+        "revenue": "8.0850e+64"
+    }, 
+    {
+        "level": 764, 
+        "coinNeed": "6.7914e+64", 
+        "revenue": "8.6625e+64"
+    }, 
+    {
+        "level": 765, 
+        "coinNeed": "7.2534e+64", 
+        "revenue": "9.2400e+64"
+    }, 
+    {
+        "level": 766, 
+        "coinNeed": "7.7166e+64", 
+        "revenue": "9.8175e+64"
+    }, 
+    {
+        "level": 767, 
+        "coinNeed": "8.1809e+64", 
+        "revenue": "1.0395e+65"
+    }, 
+    {
+        "level": 768, 
+        "coinNeed": "8.6463e+64", 
+        "revenue": "1.0973e+65"
+    }, 
+    {
+        "level": 769, 
+        "coinNeed": "9.1130e+64", 
+        "revenue": "1.1550e+65"
+    }, 
+    {
+        "level": 770, 
+        "coinNeed": "5.0836e+65", 
+        "revenue": "6.4350e+65"
+    }, 
+    {
+        "level": 771, 
+        "coinNeed": "5.5528e+65", 
+        "revenue": "7.0200e+65"
+    }, 
+    {
+        "level": 772, 
+        "coinNeed": "6.0232e+65", 
+        "revenue": "7.6050e+65"
+    }, 
+    {
+        "level": 773, 
+        "coinNeed": "6.4947e+65", 
+        "revenue": "8.1900e+65"
+    }, 
+    {
+        "level": 774, 
+        "coinNeed": "6.9674e+65", 
+        "revenue": "8.7750e+65"
+    }, 
+    {
+        "level": 775, 
+        "coinNeed": "7.4412e+65", 
+        "revenue": "9.3600e+65"
+    }, 
+    {
+        "level": 776, 
+        "coinNeed": "7.9162e+65", 
+        "revenue": "9.9450e+65"
+    }, 
+    {
+        "level": 777, 
+        "coinNeed": "8.3924e+65", 
+        "revenue": "1.0530e+66"
+    }, 
+    {
+        "level": 778, 
+        "coinNeed": "8.8698e+65", 
+        "revenue": "1.1115e+66"
+    }, 
+    {
+        "level": 779, 
+        "coinNeed": "9.3483e+65", 
+        "revenue": "1.1700e+66"
+    }, 
+    {
+        "level": 780, 
+        "coinNeed": "5.2140e+66", 
+        "revenue": "6.5175e+66"
+    }, 
+    {
+        "level": 781, 
+        "coinNeed": "5.6951e+66", 
+        "revenue": "7.1100e+66"
+    }, 
+    {
+        "level": 782, 
+        "coinNeed": "6.1774e+66", 
+        "revenue": "7.7025e+66"
+    }, 
+    {
+        "level": 783, 
+        "coinNeed": "6.6609e+66", 
+        "revenue": "8.2950e+66"
+    }, 
+    {
+        "level": 784, 
+        "coinNeed": "7.1455e+66", 
+        "revenue": "8.8875e+66"
+    }, 
+    {
+        "level": 785, 
+        "coinNeed": "7.6314e+66", 
+        "revenue": "9.4800e+66"
+    }, 
+    {
+        "level": 786, 
+        "coinNeed": "8.1184e+66", 
+        "revenue": "1.0072e+67"
+    }, 
+    {
+        "level": 787, 
+        "coinNeed": "8.6067e+66", 
+        "revenue": "1.0665e+67"
+    }, 
+    {
+        "level": 788, 
+        "coinNeed": "9.0961e+66", 
+        "revenue": "1.1257e+67"
+    }, 
+    {
+        "level": 789, 
+        "coinNeed": "9.5867e+66", 
+        "revenue": "1.1850e+67"
+    }, 
+    {
+        "level": 790, 
+        "coinNeed": "4.9896e+67", 
+        "revenue": "6.1600e+67"
+    }, 
+    {
+        "level": 791, 
+        "coinNeed": "5.4499e+67", 
+        "revenue": "6.7200e+67"
+    }, 
+    {
+        "level": 792, 
+        "coinNeed": "5.9114e+67", 
+        "revenue": "7.2800e+67"
+    }, 
+    {
+        "level": 793, 
+        "coinNeed": "6.3739e+67", 
+        "revenue": "7.8400e+67"
+    }, 
+    {
+        "level": 794, 
+        "coinNeed": "6.8376e+67", 
+        "revenue": "8.4000e+67"
+    }, 
+    {
+        "level": 795, 
+        "coinNeed": "7.3024e+67", 
+        "revenue": "8.9600e+67"
+    }, 
+    {
+        "level": 796, 
+        "coinNeed": "7.7683e+67", 
+        "revenue": "9.5200e+67"
+    }, 
+    {
+        "level": 797, 
+        "coinNeed": "8.2354e+67", 
+        "revenue": "1.0080e+68"
+    }, 
+    {
+        "level": 798, 
+        "coinNeed": "8.7035e+67", 
+        "revenue": "1.0640e+68"
+    }, 
+    {
+        "level": 799, 
+        "coinNeed": "9.1728e+67", 
+        "revenue": "1.1200e+68"
+    }, 
+    {
+        "level": 800, 
+        "coinNeed": "5.1143e+68", 
+        "revenue": "6.2370e+68"
+    }, 
+    {
+        "level": 801, 
+        "coinNeed": "5.5861e+68", 
+        "revenue": "6.8040e+68"
+    }, 
+    {
+        "level": 802, 
+        "coinNeed": "6.0590e+68", 
+        "revenue": "7.3710e+68"
+    }, 
+    {
+        "level": 803, 
+        "coinNeed": "6.5330e+68", 
+        "revenue": "7.9380e+68"
+    }, 
+    {
+        "level": 804, 
+        "coinNeed": "7.0081e+68", 
+        "revenue": "8.5050e+68"
+    }, 
+    {
+        "level": 805, 
+        "coinNeed": "7.4844e+68", 
+        "revenue": "9.0720e+68"
+    }, 
+    {
+        "level": 806, 
+        "coinNeed": "7.9618e+68", 
+        "revenue": "9.6390e+68"
+    }, 
+    {
+        "level": 807, 
+        "coinNeed": "8.4404e+68", 
+        "revenue": "1.0206e+69"
+    }, 
+    {
+        "level": 808, 
+        "coinNeed": "8.9200e+68", 
+        "revenue": "1.0773e+69"
+    }, 
+    {
+        "level": 809, 
+        "coinNeed": "9.4009e+68", 
+        "revenue": "1.1340e+69"
+    }, 
+    {
+        "level": 810, 
+        "coinNeed": "5.2406e+69", 
+        "revenue": "6.3140e+69"
+    }, 
+    {
+        "level": 811, 
+        "coinNeed": "5.7239e+69", 
+        "revenue": "6.8880e+69"
+    }, 
+    {
+        "level": 812, 
+        "coinNeed": "6.2084e+69", 
+        "revenue": "7.4620e+69"
+    }, 
+    {
+        "level": 813, 
+        "coinNeed": "6.6940e+69", 
+        "revenue": "8.0360e+69"
+    }, 
+    {
+        "level": 814, 
+        "coinNeed": "7.1807e+69", 
+        "revenue": "8.6100e+69"
+    }, 
+    {
+        "level": 815, 
+        "coinNeed": "7.6686e+69", 
+        "revenue": "9.1840e+69"
+    }, 
+    {
+        "level": 816, 
+        "coinNeed": "8.1577e+69", 
+        "revenue": "9.7580e+69"
+    }, 
+    {
+        "level": 817, 
+        "coinNeed": "8.6479e+69", 
+        "revenue": "1.0332e+70"
+    }, 
+    {
+        "level": 818, 
+        "coinNeed": "9.1392e+69", 
+        "revenue": "1.0906e+70"
+    }, 
+    {
+        "level": 819, 
+        "coinNeed": "9.6317e+69", 
+        "revenue": "1.1480e+70"
+    }, 
+    {
+        "level": 820, 
+        "coinNeed": "5.3684e+70", 
+        "revenue": "6.3910e+70"
+    }, 
+    {
+        "level": 821, 
+        "coinNeed": "5.8635e+70", 
+        "revenue": "6.9720e+70"
+    }, 
+    {
+        "level": 822, 
+        "coinNeed": "6.3596e+70", 
+        "revenue": "7.5530e+70"
+    }, 
+    {
+        "level": 823, 
+        "coinNeed": "6.8570e+70", 
+        "revenue": "8.1340e+70"
+    }, 
+    {
+        "level": 824, 
+        "coinNeed": "7.3555e+70", 
+        "revenue": "8.7150e+70"
+    }, 
+    {
+        "level": 825, 
+        "coinNeed": "7.8551e+70", 
+        "revenue": "9.2960e+70"
+    }, 
+    {
+        "level": 826, 
+        "coinNeed": "8.3559e+70", 
+        "revenue": "9.8770e+70"
+    }, 
+    {
+        "level": 827, 
+        "coinNeed": "8.8579e+70", 
+        "revenue": "1.0458e+71"
+    }, 
+    {
+        "level": 828, 
+        "coinNeed": "9.3611e+70", 
+        "revenue": "1.1039e+71"
+    }, 
+    {
+        "level": 829, 
+        "coinNeed": "9.8654e+70", 
+        "revenue": "1.1620e+71"
+    }, 
+    {
+        "level": 830, 
+        "coinNeed": "5.4978e+71", 
+        "revenue": "6.4680e+71"
+    }, 
+    {
+        "level": 831, 
+        "coinNeed": "6.0047e+71", 
+        "revenue": "7.0560e+71"
+    }, 
+    {
+        "level": 832, 
+        "coinNeed": "6.5127e+71", 
+        "revenue": "7.6440e+71"
+    }, 
+    {
+        "level": 833, 
+        "coinNeed": "7.0219e+71", 
+        "revenue": "8.2320e+71"
+    }, 
+    {
+        "level": 834, 
+        "coinNeed": "7.5323e+71", 
+        "revenue": "8.8200e+71"
+    }, 
+    {
+        "level": 835, 
+        "coinNeed": "8.0438e+71", 
+        "revenue": "9.4080e+71"
+    }, 
+    {
+        "level": 836, 
+        "coinNeed": "8.5566e+71", 
+        "revenue": "9.9960e+71"
+    }, 
+    {
+        "level": 837, 
+        "coinNeed": "9.0705e+71", 
+        "revenue": "1.0584e+72"
+    }, 
+    {
+        "level": 838, 
+        "coinNeed": "9.5856e+71", 
+        "revenue": "1.1172e+72"
+    }, 
+    {
+        "level": 839, 
+        "coinNeed": "1.0102e+72", 
+        "revenue": "1.1760e+72"
+    }, 
+    {
+        "level": 840, 
+        "coinNeed": "5.6287e+72", 
+        "revenue": "6.5450e+72"
+    }, 
+    {
+        "level": 841, 
+        "coinNeed": "6.1475e+72", 
+        "revenue": "7.1400e+72"
+    }, 
+    {
+        "level": 842, 
+        "coinNeed": "6.6676e+72", 
+        "revenue": "7.7350e+72"
+    }, 
+    {
+        "level": 843, 
+        "coinNeed": "7.1888e+72", 
+        "revenue": "8.3300e+72"
+    }, 
+    {
+        "level": 844, 
+        "coinNeed": "7.7112e+72", 
+        "revenue": "8.9250e+72"
+    }, 
+    {
+        "level": 845, 
+        "coinNeed": "8.2348e+72", 
+        "revenue": "9.5200e+72"
+    }, 
+    {
+        "level": 846, 
+        "coinNeed": "8.7596e+72", 
+        "revenue": "1.0115e+73"
+    }, 
+    {
+        "level": 847, 
+        "coinNeed": "9.2856e+72", 
+        "revenue": "1.0710e+73"
+    }, 
+    {
+        "level": 848, 
+        "coinNeed": "9.8127e+72", 
+        "revenue": "1.1305e+73"
+    }, 
+    {
+        "level": 849, 
+        "coinNeed": "1.0341e+73", 
+        "revenue": "1.1900e+73"
+    }, 
+    {
+        "level": 850, 
+        "coinNeed": "5.7611e+73", 
+        "revenue": "6.6220e+73"
+    }, 
+    {
+        "level": 851, 
+        "coinNeed": "6.2921e+73", 
+        "revenue": "7.2240e+73"
+    }, 
+    {
+        "level": 852, 
+        "coinNeed": "6.8243e+73", 
+        "revenue": "7.8260e+73"
+    }, 
+    {
+        "level": 853, 
+        "coinNeed": "7.3576e+73", 
+        "revenue": "8.4280e+73"
+    }, 
+    {
+        "level": 854, 
+        "coinNeed": "7.8922e+73", 
+        "revenue": "9.0300e+73"
+    }, 
+    {
+        "level": 855, 
+        "coinNeed": "8.4280e+73", 
+        "revenue": "9.6320e+73"
+    }, 
+    {
+        "level": 856, 
+        "coinNeed": "8.9650e+73", 
+        "revenue": "1.0234e+74"
+    }, 
+    {
+        "level": 857, 
+        "coinNeed": "9.5032e+73", 
+        "revenue": "1.0836e+74"
+    }, 
+    {
+        "level": 858, 
+        "coinNeed": "1.0043e+74", 
+        "revenue": "1.1438e+74"
+    }, 
+    {
+        "level": 859, 
+        "coinNeed": "1.0583e+74", 
+        "revenue": "1.2040e+74"
+    }, 
+    {
+        "level": 860, 
+        "coinNeed": "5.8951e+74", 
+        "revenue": "6.6990e+74"
+    }, 
+    {
+        "level": 861, 
+        "coinNeed": "6.4383e+74", 
+        "revenue": "7.3080e+74"
+    }, 
+    {
+        "level": 862, 
+        "coinNeed": "6.9828e+74", 
+        "revenue": "7.9170e+74"
+    }, 
+    {
+        "level": 863, 
+        "coinNeed": "7.5285e+74", 
+        "revenue": "8.5260e+74"
+    }, 
+    {
+        "level": 864, 
+        "coinNeed": "8.0753e+74", 
+        "revenue": "9.1350e+74"
+    }, 
+    {
+        "level": 865, 
+        "coinNeed": "8.6234e+74", 
+        "revenue": "9.7440e+74"
+    }, 
+    {
+        "level": 866, 
+        "coinNeed": "9.1728e+74", 
+        "revenue": "1.0353e+75"
+    }, 
+    {
+        "level": 867, 
+        "coinNeed": "9.7233e+74", 
+        "revenue": "1.0962e+75"
+    }, 
+    {
+        "level": 868, 
+        "coinNeed": "1.0275e+75", 
+        "revenue": "1.1571e+75"
+    }, 
+    {
+        "level": 869, 
+        "coinNeed": "1.0828e+75", 
+        "revenue": "1.2180e+75"
+    }, 
+    {
+        "level": 870, 
+        "coinNeed": "6.0306e+75", 
+        "revenue": "6.7760e+75"
+    }, 
+    {
+        "level": 871, 
+        "coinNeed": "6.5863e+75", 
+        "revenue": "7.3920e+75"
+    }, 
+    {
+        "level": 872, 
+        "coinNeed": "7.1431e+75", 
+        "revenue": "8.0080e+75"
+    }, 
+    {
+        "level": 873, 
+        "coinNeed": "7.7012e+75", 
+        "revenue": "8.6240e+75"
+    }, 
+    {
+        "level": 874, 
+        "coinNeed": "8.2606e+75", 
+        "revenue": "9.2400e+75"
+    }, 
+    {
+        "level": 875, 
+        "coinNeed": "8.8211e+75", 
+        "revenue": "9.8560e+75"
+    }, 
+    {
+        "level": 876, 
+        "coinNeed": "9.3829e+75", 
+        "revenue": "1.0472e+76"
+    }, 
+    {
+        "level": 877, 
+        "coinNeed": "9.9459e+75", 
+        "revenue": "1.1088e+76"
+    }, 
+    {
+        "level": 878, 
+        "coinNeed": "1.0510e+76", 
+        "revenue": "1.1704e+76"
+    }, 
+    {
+        "level": 879, 
+        "coinNeed": "1.1076e+76", 
+        "revenue": "1.2320e+76"
+    }, 
+    {
+        "level": 880, 
+        "coinNeed": "6.1677e+76", 
+        "revenue": "6.8530e+76"
+    }, 
+    {
+        "level": 881, 
+        "coinNeed": "6.7359e+76", 
+        "revenue": "7.4760e+76"
+    }, 
+    {
+        "level": 882, 
+        "coinNeed": "7.3053e+76", 
+        "revenue": "8.0990e+76"
+    }, 
+    {
+        "level": 883, 
+        "coinNeed": "7.8760e+76", 
+        "revenue": "8.7220e+76"
+    }, 
+    {
+        "level": 884, 
+        "coinNeed": "8.4479e+76", 
+        "revenue": "9.3450e+76"
+    }, 
+    {
+        "level": 885, 
+        "coinNeed": "9.0210e+76", 
+        "revenue": "9.9680e+76"
+    }, 
+    {
+        "level": 886, 
+        "coinNeed": "9.5955e+76", 
+        "revenue": "1.0591e+77"
+    }, 
+    {
+        "level": 887, 
+        "coinNeed": "1.0171e+77", 
+        "revenue": "1.1214e+77"
+    }, 
+    {
+        "level": 888, 
+        "coinNeed": "1.0748e+77", 
+        "revenue": "1.1837e+77"
+    }, 
+    {
+        "level": 889, 
+        "coinNeed": "1.1326e+77", 
+        "revenue": "1.2460e+77"
+    }, 
+    {
+        "level": 890, 
+        "coinNeed": "6.3063e+77", 
+        "revenue": "6.9300e+77"
+    }, 
+    {
+        "level": 891, 
+        "coinNeed": "6.8872e+77", 
+        "revenue": "7.5600e+77"
+    }, 
+    {
+        "level": 892, 
+        "coinNeed": "7.4693e+77", 
+        "revenue": "8.1900e+77"
+    }, 
+    {
+        "level": 893, 
+        "coinNeed": "8.0527e+77", 
+        "revenue": "8.8200e+77"
+    }, 
+    {
+        "level": 894, 
+        "coinNeed": "8.6373e+77", 
+        "revenue": "9.4500e+77"
+    }, 
+    {
+        "level": 895, 
+        "coinNeed": "9.2232e+77", 
+        "revenue": "1.0080e+78"
+    }, 
+    {
+        "level": 896, 
+        "coinNeed": "9.8104e+77", 
+        "revenue": "1.0710e+78"
+    }, 
+    {
+        "level": 897, 
+        "coinNeed": "1.0399e+78", 
+        "revenue": "1.1340e+78"
+    }, 
+    {
+        "level": 898, 
+        "coinNeed": "1.0988e+78", 
+        "revenue": "1.1970e+78"
+    }, 
+    {
+        "level": 899, 
+        "coinNeed": "1.1579e+78", 
+        "revenue": "1.2600e+78"
+    }, 
+    {
+        "level": 900, 
+        "coinNeed": "6.4464e+78", 
+        "revenue": "7.0070e+78"
+    }, 
+    {
+        "level": 901, 
+        "coinNeed": "7.0401e+78", 
+        "revenue": "7.6440e+78"
+    }, 
+    {
+        "level": 902, 
+        "coinNeed": "7.6351e+78", 
+        "revenue": "8.2810e+78"
+    }, 
+    {
+        "level": 903, 
+        "coinNeed": "8.2313e+78", 
+        "revenue": "8.9180e+78"
+    }, 
+    {
+        "level": 904, 
+        "coinNeed": "8.8288e+78", 
+        "revenue": "9.5550e+78"
+    }, 
+    {
+        "level": 905, 
+        "coinNeed": "9.4276e+78", 
+        "revenue": "1.0192e+79"
+    }, 
+    {
+        "level": 906, 
+        "coinNeed": "1.0028e+79", 
+        "revenue": "1.0829e+79"
+    }, 
+    {
+        "level": 907, 
+        "coinNeed": "1.0629e+79", 
+        "revenue": "1.1466e+79"
+    }, 
+    {
+        "level": 908, 
+        "coinNeed": "1.1232e+79", 
+        "revenue": "1.2103e+79"
+    }, 
+    {
+        "level": 909, 
+        "coinNeed": "1.1835e+79", 
+        "revenue": "1.2740e+79"
+    }, 
+    {
+        "level": 910, 
+        "coinNeed": "6.5881e+79", 
+        "revenue": "7.0840e+79"
+    }, 
+    {
+        "level": 911, 
+        "coinNeed": "7.1948e+79", 
+        "revenue": "7.7280e+79"
+    }, 
+    {
+        "level": 912, 
+        "coinNeed": "7.8027e+79", 
+        "revenue": "8.3720e+79"
+    }, 
+    {
+        "level": 913, 
+        "coinNeed": "8.4119e+79", 
+        "revenue": "9.0160e+79"
+    }, 
+    {
+        "level": 914, 
+        "coinNeed": "9.0224e+79", 
+        "revenue": "9.6600e+79"
+    }, 
+    {
+        "level": 915, 
+        "coinNeed": "9.6342e+79", 
+        "revenue": "1.0304e+80"
+    }, 
+    {
+        "level": 916, 
+        "coinNeed": "1.0247e+80", 
+        "revenue": "1.0948e+80"
+    }, 
+    {
+        "level": 917, 
+        "coinNeed": "1.0862e+80", 
+        "revenue": "1.1592e+80"
+    }, 
+    {
+        "level": 918, 
+        "coinNeed": "1.1477e+80", 
+        "revenue": "1.2236e+80"
+    }, 
+    {
+        "level": 919, 
+        "coinNeed": "1.2094e+80", 
+        "revenue": "1.2880e+80"
+    }, 
+    {
+        "level": 920, 
+        "coinNeed": "6.7313e+80", 
+        "revenue": "7.1610e+80"
+    }, 
+    {
+        "level": 921, 
+        "coinNeed": "7.3511e+80", 
+        "revenue": "7.8120e+80"
+    }, 
+    {
+        "level": 922, 
+        "coinNeed": "7.9722e+80", 
+        "revenue": "8.4630e+80"
+    }, 
+    {
+        "level": 923, 
+        "coinNeed": "8.5945e+80", 
+        "revenue": "9.1140e+80"
+    }, 
+    {
+        "level": 924, 
+        "coinNeed": "9.2182e+80", 
+        "revenue": "9.7650e+80"
+    }, 
+    {
+        "level": 925, 
+        "coinNeed": "9.8431e+80", 
+        "revenue": "1.0416e+81"
+    }, 
+    {
+        "level": 926, 
+        "coinNeed": "1.0469e+81", 
+        "revenue": "1.1067e+81"
+    }, 
+    {
+        "level": 927, 
+        "coinNeed": "1.1097e+81", 
+        "revenue": "1.1718e+81"
+    }, 
+    {
+        "level": 928, 
+        "coinNeed": "1.1726e+81", 
+        "revenue": "1.2369e+81"
+    }, 
+    {
+        "level": 929, 
+        "coinNeed": "1.2356e+81", 
+        "revenue": "1.3020e+81"
+    }, 
+    {
+        "level": 930, 
+        "coinNeed": "6.8761e+81", 
+        "revenue": "7.2380e+81"
+    }, 
+    {
+        "level": 931, 
+        "coinNeed": "7.5091e+81", 
+        "revenue": "7.8960e+81"
+    }, 
+    {
+        "level": 932, 
+        "coinNeed": "8.1434e+81", 
+        "revenue": "8.5540e+81"
+    }, 
+    {
+        "level": 933, 
+        "coinNeed": "8.7790e+81", 
+        "revenue": "9.2120e+81"
+    }, 
+    {
+        "level": 934, 
+        "coinNeed": "9.4160e+81", 
+        "revenue": "9.8700e+81"
+    }, 
+    {
+        "level": 935, 
+        "coinNeed": "1.0054e+82", 
+        "revenue": "1.0528e+82"
+    }, 
+    {
+        "level": 936, 
+        "coinNeed": "1.0694e+82", 
+        "revenue": "1.1186e+82"
+    }, 
+    {
+        "level": 937, 
+        "coinNeed": "1.1335e+82", 
+        "revenue": "1.1844e+82"
+    }, 
+    {
+        "level": 938, 
+        "coinNeed": "1.1977e+82", 
+        "revenue": "1.2502e+82"
+    }, 
+    {
+        "level": 939, 
+        "coinNeed": "1.2620e+82", 
+        "revenue": "1.3160e+82"
+    }, 
+    {
+        "level": 940, 
+        "coinNeed": "7.0224e+82", 
+        "revenue": "7.3150e+82"
+    }, 
+    {
+        "level": 941, 
+        "coinNeed": "7.6688e+82", 
+        "revenue": "7.9800e+82"
+    }, 
+    {
+        "level": 942, 
+        "coinNeed": "8.3165e+82", 
+        "revenue": "8.6450e+82"
+    }, 
+    {
+        "level": 943, 
+        "coinNeed": "8.9655e+82", 
+        "revenue": "9.3100e+82"
+    }, 
+    {
+        "level": 944, 
+        "coinNeed": "9.6159e+82", 
+        "revenue": "9.9750e+82"
+    }, 
+    {
+        "level": 945, 
+        "coinNeed": "1.0268e+83", 
+        "revenue": "1.0640e+83"
+    }, 
+    {
+        "level": 946, 
+        "coinNeed": "1.0921e+83", 
+        "revenue": "1.1305e+83"
+    }, 
+    {
+        "level": 947, 
+        "coinNeed": "1.1575e+83", 
+        "revenue": "1.1970e+83"
+    }, 
+    {
+        "level": 948, 
+        "coinNeed": "1.2231e+83", 
+        "revenue": "1.2635e+83"
+    }, 
+    {
+        "level": 949, 
+        "coinNeed": "1.2888e+83", 
+        "revenue": "1.3300e+83"
+    }, 
+    {
+        "level": 950, 
+        "coinNeed": "7.1702e+83", 
+        "revenue": "7.3920e+83"
+    }, 
+    {
+        "level": 951, 
+        "coinNeed": "7.8301e+83", 
+        "revenue": "8.0640e+83"
+    }, 
+    {
+        "level": 952, 
+        "coinNeed": "8.4914e+83", 
+        "revenue": "8.7360e+83"
+    }, 
+    {
+        "level": 953, 
+        "coinNeed": "9.1540e+83", 
+        "revenue": "9.4080e+83"
+    }, 
+    {
+        "level": 954, 
+        "coinNeed": "9.8179e+83", 
+        "revenue": "1.0080e+84"
+    }, 
+    {
+        "level": 955, 
+        "coinNeed": "1.0483e+84", 
+        "revenue": "1.0752e+84"
+    }, 
+    {
+        "level": 956, 
+        "coinNeed": "1.1150e+84", 
+        "revenue": "1.1424e+84"
+    }, 
+    {
+        "level": 957, 
+        "coinNeed": "1.1818e+84", 
+        "revenue": "1.2096e+84"
+    }, 
+    {
+        "level": 958, 
+        "coinNeed": "1.2487e+84", 
+        "revenue": "1.2768e+84"
+    }, 
+    {
+        "level": 959, 
+        "coinNeed": "1.3158e+84", 
+        "revenue": "1.3440e+84"
+    }, 
+    {
+        "level": 960, 
+        "coinNeed": "7.3196e+84", 
+        "revenue": "7.4690e+84"
+    }, 
+    {
+        "level": 961, 
+        "coinNeed": "7.9932e+84", 
+        "revenue": "8.1480e+84"
+    }, 
+    {
+        "level": 962, 
+        "coinNeed": "8.6681e+84", 
+        "revenue": "8.8270e+84"
+    }, 
+    {
+        "level": 963, 
+        "coinNeed": "9.3444e+84", 
+        "revenue": "9.5060e+84"
+    }, 
+    {
+        "level": 964, 
+        "coinNeed": "1.0022e+85", 
+        "revenue": "1.0185e+85"
+    }, 
+    {
+        "level": 965, 
+        "coinNeed": "1.0701e+85", 
+        "revenue": "1.0864e+85"
+    }, 
+    {
+        "level": 966, 
+        "coinNeed": "1.1381e+85", 
+        "revenue": "1.1543e+85"
+    }, 
+    {
+        "level": 967, 
+        "coinNeed": "1.2063e+85", 
+        "revenue": "1.2222e+85"
+    }, 
+    {
+        "level": 968, 
+        "coinNeed": "1.2746e+85", 
+        "revenue": "1.2901e+85"
+    }, 
+    {
+        "level": 969, 
+        "coinNeed": "1.3431e+85", 
+        "revenue": "1.3580e+85"
+    }, 
+    {
+        "level": 970, 
+        "coinNeed": "7.4705e+85", 
+        "revenue": "7.5460e+85"
+    }, 
+    {
+        "level": 971, 
+        "coinNeed": "8.1579e+85", 
+        "revenue": "8.2320e+85"
+    }, 
+    {
+        "level": 972, 
+        "coinNeed": "8.8467e+85", 
+        "revenue": "8.9180e+85"
+    }, 
+    {
+        "level": 973, 
+        "coinNeed": "9.5368e+85", 
+        "revenue": "9.6040e+85"
+    }, 
+    {
+        "level": 974, 
+        "coinNeed": "1.0228e+86", 
+        "revenue": "1.0290e+86"
+    }, 
+    {
+        "level": 975, 
+        "coinNeed": "1.0921e+86", 
+        "revenue": "1.0976e+86"
+    }, 
+    {
+        "level": 976, 
+        "coinNeed": "1.1615e+86", 
+        "revenue": "1.1662e+86"
+    }, 
+    {
+        "level": 977, 
+        "coinNeed": "1.2311e+86", 
+        "revenue": "1.2348e+86"
+    }, 
+    {
+        "level": 978, 
+        "coinNeed": "1.3008e+86", 
+        "revenue": "1.3034e+86"
+    }, 
+    {
+        "level": 979, 
+        "coinNeed": "1.3706e+86", 
+        "revenue": "1.3720e+86"
+    }, 
+    {
+        "level": 980, 
+        "coinNeed": "7.6230e+86", 
+        "revenue": "7.6230e+86"
+    }, 
+    {
+        "level": 981, 
+        "coinNeed": "8.3243e+86", 
+        "revenue": "8.3160e+86"
+    }, 
+    {
+        "level": 982, 
+        "coinNeed": "9.0270e+86", 
+        "revenue": "9.0090e+86"
+    }, 
+    {
+        "level": 983, 
+        "coinNeed": "9.7311e+86", 
+        "revenue": "9.7020e+86"
+    }, 
+    {
+        "level": 984, 
+        "coinNeed": "1.0437e+87", 
+        "revenue": "1.0395e+87"
+    }, 
+    {
+        "level": 985, 
+        "coinNeed": "1.1143e+87", 
+        "revenue": "1.1088e+87"
+    }, 
+    {
+        "level": 986, 
+        "coinNeed": "1.1852e+87", 
+        "revenue": "1.1781e+87"
+    }, 
+    {
+        "level": 987, 
+        "coinNeed": "1.2561e+87", 
+        "revenue": "1.2474e+87"
+    }, 
+    {
+        "level": 988, 
+        "coinNeed": "1.3272e+87", 
+        "revenue": "1.3167e+87"
+    }, 
+    {
+        "level": 989, 
+        "coinNeed": "1.3985e+87", 
+        "revenue": "1.3860e+87"
+    }, 
+    {
+        "level": 990, 
+        "coinNeed": "7.2215e+87", 
+        "revenue": "7.1500e+87"
+    }, 
+    {
+        "level": 991, 
+        "coinNeed": "7.8858e+87", 
+        "revenue": "7.8000e+87"
+    }, 
+    {
+        "level": 992, 
+        "coinNeed": "8.5514e+87", 
+        "revenue": "8.4500e+87"
+    }, 
+    {
+        "level": 993, 
+        "coinNeed": "9.2183e+87", 
+        "revenue": "9.1000e+87"
+    }, 
+    {
+        "level": 994, 
+        "coinNeed": "9.8865e+87", 
+        "revenue": "9.7500e+87"
+    }, 
+    {
+        "level": 995, 
+        "coinNeed": "1.0556e+88", 
+        "revenue": "1.0400e+88"
+    }, 
+    {
+        "level": 996, 
+        "coinNeed": "1.1227e+88", 
+        "revenue": "1.1050e+88"
+    }, 
+    {
+        "level": 997, 
+        "coinNeed": "1.1899e+88", 
+        "revenue": "1.1700e+88"
+    }, 
+    {
+        "level": 998, 
+        "coinNeed": "1.2572e+88", 
+        "revenue": "1.2350e+88"
+    }, 
+    {
+        "level": 999, 
+        "coinNeed": "1.3247e+88", 
+        "revenue": "1.3000e+88"
+    }
+]

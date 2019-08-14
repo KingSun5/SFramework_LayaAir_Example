@@ -1,4 +1,5 @@
 import { Log } from '../core/log';
+import { EventFunc } from '../manager/event/event-data';
 
  /**
  * @author Sun
@@ -15,12 +16,12 @@ export class UtilLoad3D {
      * @param path 场景文件路径
      * @param cb   加载完成回调
      */
-    public static loadScene(area,path,cb):any
+    public static loadScene(path,area,cb):any
     {
         Laya.loader.create(path,Laya.Handler.create(this,()=>{
-            let scene3D = Laya.stage.addChild(Laya.loader.getRes(path)) as Laya.Scene3D;
+            Laya.stage.addChild(Laya.loader.getRes(path));
             if (cb) {
-                cb.call(area,scene3D);
+                cb.call(area);
             }
         }));
     }

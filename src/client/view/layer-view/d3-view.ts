@@ -6,6 +6,7 @@ import d3UI =  ui.view.main.d3UI;
 import { DataBase } from '../../../framework/manager/data/data-base';
 import { UtilLoad3D } from '../../../framework/util/load3d';
 import { Config3D } from '../../../framework/setting/config';
+import { EventFunc } from '../../../framework/manager/event/event-data';
 
 
 /**
@@ -118,12 +119,9 @@ export class D3View extends d3UI{
     /**
      * 加载3D场景
      */
-    public load3DScene(callBack)
+    public load3DScene(area,callBack)
     {
-        UtilLoad3D.loadScene(this,Config3D.$.scenePath,(scene)=>{
-            this.scene3D = scene;
-            callBack.call();
-        });
+        UtilLoad3D.loadScene(Config3D.$.scenePath,area,callBack);
     }
 
     /********************************************——**********************************************/

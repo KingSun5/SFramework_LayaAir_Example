@@ -44,7 +44,6 @@ export class Engine{
         Log.info("::: Game Engine Run :::");
 
         if (ConfigUI.$.defaultLoadView != null && ConfigRes.$.defaultLoadRes != null) {
-
             this.engineSetup(()=>{
                 //游戏开始
                 UtilTime.start();

@@ -65,7 +65,7 @@ export class LoadingView extends loadingUI implements ILoaing{
             //3D页面
             let d3View = D3View.$;
             Laya.stage.addChild(d3View);
-            d3View.load3DScene(this.showView);
+            d3View.load3DScene(this,this.showView);
         }else{
             this.showView();
         }
@@ -177,8 +177,8 @@ export class LoadingView extends loadingUI implements ILoaing{
 
     destroy()
     {
-        this.removeSelf();
-        ResManager.$.releaseGroup(ConfigRes.$.defaultLoadRes);
+        // this.removeSelf();
+        // ResManager.$.releaseGroup(ConfigRes.$.defaultLoadRes);
     }
 
       /********************************************——**********************************************/

@@ -1,0 +1,42 @@
+[
+    {
+        "count": 1, 
+        "diamond": 10
+    }, 
+    {
+        "count": 2, 
+        "diamond":20
+    }, 
+    {
+        "count": 3, 
+        "diamond": 30
+    }, 
+    {
+        "count": 4, 
+        "diamond": 40 
+    }, 
+    {
+        "count": 5, 
+        "diamond": 50
+    }, 
+    {
+        "count": 6, 
+        "diamond": 60
+    }, 
+    {
+        "count": 7, 
+        "diamond":70
+    }, 
+    {
+        "count": 8, 
+        "coinNeed": 80
+    }, 
+    {
+        "count": 9, 
+        "diamond": 90
+    }, 
+    {
+        "count": 10, 
+        "diamond": 100
+    }
+]
