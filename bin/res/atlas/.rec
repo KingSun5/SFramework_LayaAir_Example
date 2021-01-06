@@ -6,10 +6,11 @@ R 87D0A258 img_lottery_border.png
 R 5FE87C22 img_lottery_content.png
 P 653A9E4E img_zhen.png
 D res/data
-R 0E304154 InviteData.json
-R F9F49097 LevelData.json
-R 48BE67C4 OfflineData.json
-R 30C57CF6 TurntableData.json
+R 763BBCCE InviteData.json
+R 0FD5AFD1 LevelData.json
+R 366120BB map1.json
+R 72973672 OfflineData.json
+R 036DECE3 TurntableData.json
 D res/dialog
 R 87D0A258 img_lottery_border.png
 R 5FE87C22 img_lottery_content.png
@@ -19,10 +20,11 @@ R 616C6769 img_loading_bg.png
 R B9EE4DB9 progress_loading$bar.png
 R ECD94A08 progress_loading.png
 D res/main
+D res/map
+R 1D6D41AC map1.json
 D res/u3d
 D res/main/bg
 R 76D1178C bg.png
-D res/main/d3
 D res/main/effect
 P 8A1D4A5A btn_close.png
 P 02981C7D btn_common_1.png
@@ -32,12 +34,17 @@ P 61612DE5 btn_common_4.png
 P 438E52E3 image_status.png
 P D4413A80 img_diamond.png
 P 4AA6B301 img_glod.png
-D res/main/game
-D res/main/popup
+D res/main/enemy
+P C7823F68 enemy.png
+D res/main/map
+P 19D501A3 grass.png
+P 535667C1 wall.png
+D res/main/player
+P F73801B2 player.png
 D res/u3d/LayaScene_Main
 D res/u3d/LayaScene_Main/Conventional
-R C89BF0E1 Main.ls
+R 66C8CCDB Main.ls
 D res/u3d/LayaScene_Main/Conventional/Library
 R 1B9D0F79 unity default resources-Cube.lm
 D res/u3d/LayaScene_Main/Conventional/Resources
-R EB8C63A1 unity_builtin_extra.lmat
+R AEBA05AD unity_builtin_extra.lmat

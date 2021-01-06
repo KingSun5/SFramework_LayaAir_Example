@@ -1,15 +1,10 @@
 import {ui} from "../../../ui/layaMaxUI";
 import Browser = Laya.Browser;
 import gameUI = ui.view.main.gameUI;
-import Prefab = Laya.Prefab;
-import Tween = Laya.Tween;
-import Ease = Laya.Ease;
-import Handler = Laya.Handler;
-import Point = Laya.Point;
 import { DataBase } from '../../../framework/manager/data/data-base';
-import { ResManager } from '../../../framework/manager/res/res-manager';
-import { Log } from '../../../framework/core/log';
-
+import {MgrCenter} from "../../mgr/mgrCenter";
+import {PlayerMgr} from "../../mgr/playerMgr/playerMgr";
+import {MgrKey} from "../../sign/sign";
 
 /**
  * @author Sun
@@ -26,7 +21,7 @@ export class GameView extends gameUI {
     /********************************************——**********************************************/
     ////////////////////////////////////////////分界线////////////////////////////////////////////
     /*****************************************页面生命周期*****************************************/
-    private static instance: GameView
+    private static instance: GameView;
 
     public static get $(): GameView {
         if (!this.instance) this.instance = new GameView();
@@ -44,8 +39,6 @@ export class GameView extends gameUI {
         super.onAwake();
         this.Init();
         this.suitInit();
-
-
     }
 
     /**
@@ -61,7 +54,7 @@ export class GameView extends gameUI {
         if (Browser.onWeiXin) {
             this.initLink();
         }
-
+        MgrCenter.$.getMgr(MgrKey.PLAYER_MGR_KEY,PlayerMgr).bornPlayer();
     }
 
     /**
@@ -130,6 +123,17 @@ export class GameView extends gameUI {
     ///////////////////////////////////////////-分界线-///////////////////////////////////////////
 
 }
+
+class Greeter {
+    greeting: string;
+    constructor(message: string) {
+        this.greeting = message;
+    }
+    greet() {
+        return "Hello, " + this.greeting;
+    }
+}
+
 
 
 
