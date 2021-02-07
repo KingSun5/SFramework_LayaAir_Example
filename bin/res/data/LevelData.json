@@ -1,0 +1,12 @@
+[
+{"level":"1","exp":"0","giftCoin":"500","giftDiamond":"50","giftEnergy":"6"},
+{"level":"2","exp":"1000","giftCoin":"900","giftDiamond":"20","giftEnergy":"4"},
+{"level":"3","exp":"2000","giftCoin":"1800","giftDiamond":"30","giftEnergy":"6"},
+{"level":"4","exp":"4000","giftCoin":"3000","giftDiamond":"40","giftEnergy":"8"},
+{"level":"5","exp":"8000","giftCoin":"4500","giftDiamond":"50","giftEnergy":"10"},
+{"level":"6","exp":"16000","giftCoin":"6300","giftDiamond":"60","giftEnergy":"12"},
+{"level":"7","exp":"32000","giftCoin":"8400","giftDiamond":"70","giftEnergy":"14"},
+{"level":"8","exp":"64000","giftCoin":"10800","giftDiamond":"80","giftEnergy":"16"},
+{"level":"9","exp":"128000","giftCoin":"13500","giftDiamond":"90","giftEnergy":"18"},
+{"level":"10","exp":"1024000","giftCoin":"18000","giftDiamond":"100","giftEnergy":"20"}
+]

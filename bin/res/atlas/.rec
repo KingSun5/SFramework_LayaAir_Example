@@ -8,7 +8,6 @@ P 653A9E4E img_zhen.png
 D res/data
 R 763BBCCE InviteData.json
 R 0FD5AFD1 LevelData.json
-R 366120BB map1.json
 R 72973672 OfflineData.json
 R 036DECE3 TurntableData.json
 D res/dialog
@@ -20,8 +19,6 @@ R 616C6769 img_loading_bg.png
 R B9EE4DB9 progress_loading$bar.png
 R ECD94A08 progress_loading.png
 D res/main
-D res/map
-R 1D6D41AC map1.json
 D res/u3d
 D res/main/bg
 R 76D1178C bg.png
@@ -34,13 +31,6 @@ P 61612DE5 btn_common_4.png
 P 438E52E3 image_status.png
 P D4413A80 img_diamond.png
 P 4AA6B301 img_glod.png
-D res/main/enemy
-P C7823F68 enemy.png
-D res/main/map
-P 19D501A3 grass.png
-P 535667C1 wall.png
-D res/main/player
-P F73801B2 player.png
 D res/u3d/LayaScene_Main
 D res/u3d/LayaScene_Main/Conventional
 R 66C8CCDB Main.ls

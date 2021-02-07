@@ -2,9 +2,6 @@ import {ui} from "../../../ui/layaMaxUI";
 import Browser = Laya.Browser;
 import gameUI = ui.view.main.gameUI;
 import { DataBase } from '../../../framework/manager/data/data-base';
-import {MgrCenter} from "../../mgr/mgrCenter";
-import {PlayerMgr} from "../../mgr/playerMgr/playerMgr";
-import {MgrKey} from "../../sign/sign";
 
 /**
  * @author Sun
@@ -54,7 +51,6 @@ export class GameView extends gameUI {
         if (Browser.onWeiXin) {
             this.initLink();
         }
-        MgrCenter.$.getMgr(MgrKey.PLAYER_MGR_KEY,PlayerMgr).bornPlayer();
     }
 
     /**
